@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPC HCADD Dashboard</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        }
+        
+        /* Smooth transitions for sidebar toggle */
+        .sidebar-transition {
+            transition: transform 0.3s ease-in-out;
+        }
+
+        /* Active nav item highlight styling */
+        .nav-item.active {
+            background-color: #2563eb;
+            color: #ffffff;
+            font-weight: 600;
+        }
+
+        .nav-item.active i {
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex flex-col h-screen overflow-hidden">
+
+    <!-- Top Navigation Bar -->
+    <header class="bg-slate-900 text-white h-16 flex items-center justify-between px-4 sm:px-6 z-30 shadow-md">
+        <div class="flex items-center space-x-3">
+            <!-- Mobile Menu Button -->
+            <button id="mobile-menu-btn" onclick="toggleSidebar()" class="md:hidden text-gray-300 hover:text-white focus:outline-none p-2 rounded-lg hover:bg-slate-800">
+                <i class="fa-solid fa-bars text-xl"></i>
+            </button>
+            <!-- Dashboard Title / Logo -->
+            <div class="flex items-center space-x-2">
+                <div class="bg-blue-600 text-white p-2 rounded-lg flex items-center justify-center w-8 h-8 font-bold">
+                    <i class="fa-solid fa-chart-diagram"></i>
+                </div>
+                <span class="font-bold text-lg tracking-wide hidden sm:inline">CPC HCAD Framework Dashboard</span>
+            </div>
+        </div>
+
+        <!-- Right Side Header Meta -->
+        <div class="flex items-center space-x-4 text-xs sm:text-sm text-slate-300">
+            <span class="bg-slate-800 px-3 py-1 rounded-full border border-slate-700 hidden sm:inline-block">
+                <i class="fa-solid fa-flask text-blue-400 mr-1.5"></i> Academic Analytics Demos
+            </span>
+            <div class="flex items-center space-x-2 border-l border-slate-700 pl-4">
+                <div class="w-8 h-8 rounded-full bg-blue-500/20 text-blue-400 flex items-center justify-center font-semibold border border-blue-500/30">
+                    <i class="fa-solid fa-user-graduate"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <div class="flex flex-1 overflow-hidden relative">
+
+        <!-- Mobile Sidebar Overlay -->
+        <div id="sidebar-overlay" onclick="toggleSidebar()" class="fixed inset-0 bg-slate-900/50 z-10 hidden md:hidden transition-opacity"></div>
+
+        <!-- Sidebar Navigation -->
+        <aside id="sidebar" class="w-72 bg-slate-800 text-slate-300 flex flex-col fixed md:relative inset-y-0 left-0 z-20 -translate-x-full md:translate-x-0 sidebar-transition shadow-xl md:shadow-none border-r border-slate-700">
+            
+            <!-- Sidebar Header / Category -->
+            <div class="p-4 border-b border-slate-700/60 flex items-center justify-between">
+                <span class="text-xs font-semibold uppercase tracking-wider text-slate-400">Modules & Analysis</span>
+                <span class="bg-slate-700 text-slate-300 text-[10px] px-2 py-0.5 rounded-full font-mono">v0.1.0</span>
+            </div>
+
+            <!-- Navigation Links -->
+            <nav class="flex-1 overflow-y-auto p-3 space-y-1.5">
+                
+                <!-- Item 1: Data Transformation -->
+                <button onclick="loadPage('s1dataTransformation.html', this)" class="nav-item active w-full flex items-center space-x-3 px-3.5 py-3 rounded-lg text-sm text-left hover:bg-slate-700/60 transition-colors group">
+                    <i class="fa-solid fa-right-left w-5 text-center text-slate-400 group-hover:text-blue-400 transition-colors"></i>
+                    <span class="truncate">1. Data Transformation</span>
+                </button>
+
+                <!-- Item 2: CPC Transformation -->
+                <button onclick="loadPage('s2cpcTransformation.html', this)" class="nav-item w-full flex items-center space-x-3 px-3.5 py-3 rounded-lg text-sm text-left hover:bg-slate-700/60 transition-colors group">
+                    <i class="fa-solid fa-arrows-split-up-and-left w-5 text-center text-slate-400 group-hover:text-blue-400 transition-colors"></i>
+                    <span class="truncate">2. CPC Transformation</span>
+                </button>
+
+                <!-- Item 3: CPC Regression -->
+                <button onclick="loadPage('s3cpcRegression.html', this)" class="nav-item w-full flex items-center space-x-3 px-3.5 py-3 rounded-lg text-sm text-left hover:bg-slate-700/60 transition-colors group">
+                    <i class="fa-solid fa-chart-line w-5 text-center text-slate-400 group-hover:text-blue-400 transition-colors"></i>
+                    <span class="truncate">3. CPC Regression</span>
+                </button>
+
+                <!-- Item 4: CPC Classification -->
+                <button onclick="loadPage('s4cpcClassification.html', this)" class="nav-item w-full flex items-center space-x-3 px-3.5 py-3 rounded-lg text-sm text-left hover:bg-slate-700/60 transition-colors group">
+                    <i class="fa-solid fa-tags w-5 text-center text-slate-400 group-hover:text-blue-400 transition-colors"></i>
+                    <span class="truncate">4. CPC Classification</span>
+                </button>
+
+                <!-- Item 5: CPC Clustering -->
+                <button onclick="loadPage('s5cpcClustering.html', this)" class="nav-item w-full flex items-center space-x-3 px-3.5 py-3 rounded-lg text-sm text-left hover:bg-slate-700/60 transition-colors group">
+                    <i class="fa-solid fa-circle-nodes w-5 text-center text-slate-400 group-hover:text-blue-400 transition-colors"></i>
+                    <span class="truncate">5. CPC Clustering</span>
+                </button>
+
+                <!-- Item 6: CPC Association -->
+                <button onclick="loadPage('s6cpcAssociation.html', this)" class="nav-item w-full flex items-center space-x-3 px-3.5 py-3 rounded-lg text-sm text-left hover:bg-slate-700/60 transition-colors group">
+                    <i class="fa-solid fa-diagram-project w-5 text-center text-slate-400 group-hover:text-blue-400 transition-colors"></i>
+                    <span class="truncate">6. CPC Association</span>
+                </button>
+
+            </nav>
+
+            <!-- Sidebar Footer -->
+            <div class="p-4 border-t border-slate-700/60 text-xs text-slate-400 flex flex-col space-y-1">
+                <span class="font-medium text-slate-300">Yuen, K. K. F. (2026). Advancing Cognitive Pairwise Comparisons for Human-Centric Artificial Intelligence and Data Science. Manuscript under review. A preprint will be available shortly.</span>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="flex-1 flex flex-col bg-gray-50 overflow-hidden">
+            
+            <!-- Content Header Bar -->
+            <div class="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shadow-sm">
+                <div class="flex items-center space-x-2 text-sm text-gray-600">
+                    <i class="fa-regular fa-file-code text-blue-600"></i>
+                    <span class="font-medium">Active View:</span>
+                    <span id="current-file-display" class="font-mono text-xs bg-slate-100 text-slate-700 px-2 py-1 rounded border border-gray-200">s1dataTransformation.html</span>
+                </div>
+                <!-- Open in New Tab Button -->
+                <a id="open-external-btn" href="s1dataTransformation.html" target="_blank" class="text-xs text-blue-600 hover:text-blue-800 flex items-center space-x-1 transition-colors font-medium">
+                    <span>Open standalone</span>
+                    <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+                </a>
+            </div>
+
+            <!-- Iframe Container -->
+            <div class="flex-1 relative w-full h-full bg-white">
+                <iframe id="content-frame" src="s1dataTransformation.html" class="w-full h-full border-none" title="Module Content">
+                </iframe>
+            </div>
+        </main>
+
+    </div>
+
+    <!-- Page Logic Script -->
+    <script>
+        /**
+         * Load specified HTML file into iframe and update UI state
+         */
+        function loadPage(pageUrl, element) {
+            // Update iframe source
+            const frame = document.getElementById('content-frame');
+            frame.src = pageUrl;
+
+            // Update header info
+            document.getElementById('current-file-display').textContent = pageUrl;
+            document.getElementById('open-external-btn').href = pageUrl;
+
+            // Update selected nav style
+            const navItems = document.querySelectorAll('.nav-item');
+            navItems.forEach(item => item.classList.remove('active'));
+            element.classList.add('active');
+
+            // Close mobile sidebar if open
+            const sidebar = document.getElementById('sidebar');
+            if (!sidebar.classList.contains('-translate-x-full') && window.innerWidth < 768) {
+                toggleSidebar();
+            }
+        }
+
+        /**
+         * Toggle Mobile Sidebar Visibility
+         */
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const overlay = document.getElementById('sidebar-overlay');
+            
+            sidebar.classList.toggle('-translate-x-full');
+            overlay.classList.toggle('hidden');
+        }
+    </script>
+</body>
+</html>
