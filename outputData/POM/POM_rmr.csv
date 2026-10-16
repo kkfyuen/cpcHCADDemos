@@ -1,0 +1,5 @@
+"","recent","quite recent","long time ago","very long time ago"
+"recent",0,-5,-7,-8
+"quite recent",5,0,-2,-2
+"long time ago",7,2,0,-2
+"very long time ago",8,2,2,0

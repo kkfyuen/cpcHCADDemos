@@ -1,0 +1,906 @@
+"","preference","cluster","movieId","title","genres","year","ratingScoreMean"
+"208939",0.720902651015462,13,208939,"Klaus","Adventure|Animation|Children|Comedy",2019,4.3125
+"205066",0.705633590011044,13,205066,"Nezha","Animation|Comedy|Fantasy",2019,3.75
+"208241",0.700333333333333,13,208241,"White Snake","Animation|Fantasy|Romance",2019,3.5
+"201588",0.682442841325111,13,201588,"Toy Story 4","Adventure|Animation|Children|Comedy",2019,3.62444444444444
+"207828",0.670076388888889,13,207828,"Birthday Wonderland","Animation|Fantasy",2019,2
+"206714",0.669260145033133,13,206714,"Abominable","Adventure|Animation|Children|Comedy",2019,3.40625
+"203222",0.66696990996561,13,203222,"The Lion King","Adventure|Animation|Children|Drama",2019,3.14922480620155
+"207347",0.664303801335542,13,207347,"Spread Your Wings","Adventure|Children",2019,2.75
+"200630",0.661085440296502,13,200630,"Missing Link","Adventure|Animation|Children|Comedy|Fantasy",2019,2.85714285714286
+"205945",0.657510767041968,13,205945,"Steven Universe: The Movie","Adventure|Animation|Children|Comedy",2019,3.2
+"200614",0.655761556662793,13,200614,"Wonder Park","Adventure|Animation|Children|Comedy|Fantasy",2019,2.76470588235294
+"200824",0.6509305473966,13,200824,"The Secret Life of Pets 2","Adventure|Animation|Children|Comedy",2019,3.08241758241758
+"207065",0.646078125,13,207065,"Minuscule 2: Mandibles From Far Away","Adventure|Animation|Children|Comedy",2019,3
+"203517",0.63837900983079,13,203517,"The Angry Birds Movie 2","Action|Adventure|Animation|Children|Comedy",2019,2.58
+"199622",0.63796348733996,13,199622,"Scooby-Doo! and the Curse of the 13th Ghost","Adventure|Animation|Children|Comedy|Mystery",2019,2.5
+"204188",0.627708467900876,13,204188,"UglyDolls","Adventure|Animation|Children|Comedy|Fantasy",2019,2.27272727272727
+"203224",0.6207030284028,13,203224,"Dora and the Lost City of Gold","Adventure|Children|Comedy",2019,2.82692307692308
+"207189",0.608204910898301,13,207189,"The Addams Family","Animation|Children|Comedy|Fantasy|Horror",2019,2.30769230769231
+"206959",0.578904423344378,13,206959,"Frozen II","Adventure|Animation|Children|Comedy|Fantasy",2019,1.41666666666667
+"203745",0.549784052974007,13,203745,"Turma da Mônica: Laços","Adventure|Children|Comedy",2019,1.58333333333333
+"202932",0.503579843002209,13,202932,"The Big Trip","Adventure|Animation|Children|Comedy",2019,0.5
+"201488",0.757884006822671,13,201488,"Modest Heroes","Adventure|Animation|Fantasy",2018,3.4
+"194843",0.754618801480502,13,194843,"9 Satra","Animation|Fantasy",2018,3.5
+"193916",0.751259135385975,13,193916,"Mirai","Animation|Fantasy",2018,3.4406779661017
+"200052",0.742581242430263,13,200052,"Pokémon the Movie: The Power of Us","Adventure|Animation|Children|Fantasy",2018,3.71428571428571
+"187541",0.737903305339554,13,187541,"Incredibles 2","Action|Adventure|Animation|Children",2018,3.70348432055749
+"203040",0.737486802709351,13,203040,"Pachamama","Adventure|Animation|Children|Fantasy",2018,3.625
+"203948",0.734594495924947,13,203948,"Kayak to Klemtu","Adventure|Children",2018,4
+"192981",0.711937084947969,13,192981,"Penguin Highway","Adventure|Animation|Children|Comedy|Fantasy",2018,3.76923076923077
+"203298",0.702180704667897,13,203298,"Checkered Ninja","Adventure|Animation|Comedy",2018,3.75
+"187245",0.699122756983982,13,187245,"Sgt. Stubby: An American Hero","Adventure|Animation|Children",2018,3.3
+"189783",0.686809196375391,13,189783,"Christopher Robin","Adventure|Animation|Comedy",2018,3.47572815533981
+"193297",0.669452710848997,13,193297,"Scooby-Doo! and the Gourmet Ghost","Adventure|Animation|Crime",2018,3.3
+"196619",0.665567341404439,13,196619,"Shrek Retold","Adventure|Animation|Comedy|Fantasy",2018,2.66666666666667
+"200270",0.663113575038267,13,200270,"Luis and the Aliens","Adventure|Animation|Children|Comedy|Sci-Fi",2018,3
+"185471",0.658931697001593,13,185471,"The Stolen Princess","Adventure|Animation|Comedy",2018,3
+"193617",0.653055954661558,13,193617,"Nelly & Simon:  Mission Yeti","Adventure|Animation|Children",2018,2.5
+"188307",0.650206627877469,13,188307,"Hotel Transylvania 3: Summer Vacation","Animation|Children|Comedy|Fantasy",2018,3.05670103092783
+"188139",0.636119612068966,13,188139,"Leo Da Vinci: Mission Mona Lisa","Adventure|Animation",2018,1.5
+"184865",0.629380691404505,13,184865,"Sherlock Gnomes","Animation|Children|Comedy|Fantasy|Mystery|Romance",2018,2.65909090909091
+"193569",0.627044380587484,13,193569,"Enchanted Princess","Animation|Children|Fantasy",2018,2
+"197743",0.582689963927156,13,197743,"Here Comes the Grump","Adventure|Animation|Children|Comedy|Fantasy",2018,1.5
+"202539",0.559356648702725,13,202539,"Cinderella and the Secret Prince","Adventure|Animation|Children|Fantasy",2018,0.5
+"197539",0.531123973596031,13,197539,"Wheely","Adventure|Animation|Children|Comedy",2018,1
+"185761",0.839161214072116,13,185761,"Throne of Elves","Animation|Fantasy",2017,5
+"200950",0.790951060867853,13,200950,"Game of Thrones - Conquest & Rebellion","Animation|Fantasy",2017,4.15384615384615
+"168218",0.773863769809198,13,168218,"Kizumonogatari III: Cold Blood","Animation|Fantasy|Mystery",2017,3.73913043478261
+"179513",0.760603807471264,13,179513,"Lucky's Treasure","Adventure|Children",2017,4.5
+"184049",0.756397712368557,13,184049,"The Mystery of Green Hill","Adventure|Children|Mystery",2017,4
+"192987",0.747505351257445,13,192987,"Storm - Letter of Fire","Adventure|Children",2017,4.25
+"177765",0.746479356577279,13,177765,"Coco","Adventure|Animation|Children",2017,4.0369206598586
+"175479",0.744269207500999,13,175479,"Detective Conan: Crimson Love Letter","Action|Adventure|Animation|Children|Crime|Mystery",2017,4.28571428571429
+"182479",0.743292260611089,13,182479,"Mary and the Witch's Flower","Adventure|Animation",2017,3.38839285714286
+"193581",0.733628615146334,13,193581,"Black Butler: Book of the Atlantic","Action|Animation|Comedy|Fantasy",2017,4
+"209041",0.725161214072116,13,209041,"Yamasong: March of the Hollows","Animation|Fantasy",2017,3
+"186159",0.724044174892525,13,186159,"Tangled: Before Ever After","Adventure|Animation|Children|Comedy|Fantasy",2017,4
+"193583",0.717707744346762,13,193583,"No Game No Life: Zero","Animation|Comedy|Fantasy",2017,4
+"168420",0.716389450228008,13,168420,"Justice League Dark","Action|Animation|Fantasy|Horror",2017,3.21559633027523
+"184835",0.71383184628925,13,184835,"Lu Over the Wall","Animation|Children|Fantasy",2017,3.52941176470588
+"197449",0.70986491777582,13,197449,"Tea Pets","Adventure|Animation|Children",2017,3.5
+"173745",0.699292178667206,13,173745,"A Stork's Journey","Adventure|Animation",2017,2.625
+"177241",0.692050370321001,13,177241,"My Little Pony: The Movie","Adventure|Animation|Children|Fantasy",2017,2.859375
+"178827",0.686470552989992,13,178827,"Paddington 2","Adventure|Animation|Children|Comedy",2017,3.73684210526316
+"170957",0.670885656149644,13,170957,"Cars 3","Adventure|Animation|Comedy",2017,3.22015915119363
+"184829",0.669142011941783,13,184829,"Zombillénium","Animation|Comedy|Fantasy",2017,3.15
+"204818",0.664428575183227,13,204818,"Digimon Adventure Tri. - Chapter 5: Coexistence","Adventure|Animation",2017,2
+"186177",0.662853042321284,13,186177,"Trolls Holiday","Adventure|Animation|Children|Comedy|Fantasy",2017,2.92857142857143
+"181235",0.661101481137124,13,181235,"Hey Arnold! The Jungle Movie","Adventure|Animation|Comedy",2017,3.0625
+"179979",0.654308874369877,13,179979,"Heroes Above All","Adventure|Children",2017,2.625
+"180569",0.652434778175452,13,180569,"The Star","Adventure|Animation|Comedy",2017,2.90625
+"172547",0.652314577878539,13,172547,"Despicable Me 3","Adventure|Animation|Children|Comedy",2017,3.13642857142857
+"179443",0.65107096882677,13,179443,"Tad Jones and the Secret of King Midas","Adventure|Animation|Comedy",2017,2.875
+"180091",0.646721307429813,13,180091,"Pokémon the Movie: I Choose You!","Adventure|Animation|Children|Comedy|Drama|Fantasy",2017,2.9
+"168720",0.641951526072639,13,168720,"Lost & Found","Adventure|Children|Mystery",2017,2
+"180537",0.64055878170287,13,180537,"Barbie: Dolphin Magic","Adventure|Animation|Children|Fantasy",2017,1.95454545454545
+"186935",0.640370023697911,13,186935,"Gnome Alone","Adventure|Animation|Children",2017,2.29166666666667
+"181601",0.638638604097729,13,181601,"Olaf's Frozen Adventure","Adventure|Animation|Children|Comedy|Fantasy",2017,2.51041666666667
+"170627",0.63731199278865,13,170627,"Smurfs: The Lost Village","Adventure|Animation|Children|Comedy",2017,2.8943661971831
+"176389",0.621654983629968,13,176389,"The Nut Job 2: Nutty by Nature","Adventure|Animation|Children|Comedy",2017,2.62
+"186169",0.619384827680096,13,186169,"Jurassic School","Adventure|Children",2017,2
+"175753",0.608406465784328,13,175753,"Sahara","Adventure|Animation|Children|Comedy",2017,2.38888888888889
+"177037",0.601003037211745,13,177037,"Puss in Book: Trapped in an Epic Tale","Adventure|Animation|Children|Comedy|Fantasy",2017,1.85714285714286
+"188221",0.590107844475469,13,188221,"Bigger Fatter Liar","Adventure|Children|Comedy",2017,2.33333333333333
+"176299",0.586209916036544,13,176299,"Tom and Jerry: Willy Wonka and the Chocolate Factory","Adventure|Animation|Children|Comedy",2017,2
+"200384",0.814186229334814,13,200384,"Detective Conan: The Darkest Nightmare","Adventure|Animation|Mystery",2016,4.5
+"168090",0.781741250507886,13,168090,"Kizumonogatari II: Passionate Blood","Animation|Fantasy|Mystery",2016,3.89655172413793
+"204814",0.777470987774841,13,204814,"Digimon Adventure Tri. - Chapter 3: Confession","Adventure|Animation",2016,4
+"177031",0.776111703628157,13,177031,"Nova Seed","Animation|Fantasy|Sci-Fi",2016,3.875
+"162416",0.75204444099694,13,162416,"Big Fish & Begonia","Animation|Fantasy",2016,3.5
+"162578",0.750734710115299,13,162578,"Kubo and the Two Strings","Adventure|Animation|Children|Fantasy",2016,3.85385411277807
+"151717",0.747060945845885,13,151717,"Long Way North","Adventure|Animation",2016,3.48648648648649
+"174515",0.732819934007726,13,174515,"Yu-Gi-Oh!: The Dark Side of Dimensions","Adventure|Animation",2016,3.23076923076923
+"195995",0.73125395577705,13,195995,"Dofus - Book I: Julith","Animation|Comedy|Fantasy",2016,4.25
+"152081",0.723894537103688,13,152081,"Zootopia","Action|Adventure|Animation|Children|Comedy",2016,3.89364640883978
+"166461",0.72060299667792,13,166461,"Moana","Adventure|Animation|Children|Comedy|Fantasy",2016,3.84989934574736
+"202517",0.697408451557037,13,202517,"Kung Fu Panda: Secrets of the Scroll","Action|Adventure|Animation|Children|Comedy",2016,3.66666666666667
+"157296",0.697072721917215,13,157296,"Finding Dory","Adventure|Animation|Comedy",2016,3.61555891238671
+"151707",0.691830185130432,13,151707,"The Eagle Huntress","Adventure|Children|Documentary",2016,3.625
+"180843",0.683886150215156,13,180843,"Schreckenstein Castle","Adventure|Children|Comedy",2016,4
+"165141",0.682792010012636,13,165141,"Trolls","Adventure|Animation|Children",2016,3.04736842105263
+"165931",0.679341031644561,13,165931,"Ivan Tsarevich & the Grey Wolf 3","Adventure|Animation|Children",2016,3
+"175875",0.674916206589944,13,175875,"Siv Sleeps Astray","Adventure|Children",2016,3
+"185605",0.673273458293503,13,185605,"LEGO DC Comics Super Heroes: Justice League: Cosmic Clash","Action|Adventure|Animation|Children|Comedy",2016,3.25
+"177793",0.665634785063208,13,177793,"Little Door Gods","Animation|Children|Fantasy",2016,2.71428571428571
+"159153",0.66418498781807,13,159153,"The Land Before Time XIV: Journey of the Brave","Adventure|Animation|Children",2016,2.75
+"167726",0.653998994365558,13,167726,"Sheep & Wolves","Adventure|Animation|Children|Comedy",2016,3.2
+"175625",0.650491688065087,13,175625,"The Dragon Spell","Adventure|Animation|Children|Comedy|Fantasy",2016,2.75
+"172573",0.64220998203204,13,172573,"Rock Dog","Adventure|Animation|Children|Comedy",2016,3
+"156025",0.641462565632066,13,156025,"Ice Age: The Great Egg-Scapade","Adventure|Animation|Children|Comedy",2016,2.99350649350649
+"160569",0.636343790781665,13,160569,"Ice Age: Collision Course","Adventure|Animation|Children|Comedy",2016,2.89107611548556
+"204812",0.634970987774841,13,204812,"Digimon Adventure Tri. - Chapter 2: Determination","Adventure|Animation",2016,1.5
+"161738",0.625506841952956,13,161738,"The Wild Life","Adventure|Animation|Comedy",2016,2.45652173913043
+"168150",0.623466332489832,13,168150,"Legends of the Hidden Temple","Adventure|Children",2016,2.1
+"154268",0.622990858277748,13,154268,"Open Season: Scared Silly","Adventure|Animation|Comedy",2016,2.42592592592593
+"186719",0.598386150215156,13,186719,"Oru Muthassi Gadha","Adventure|Children|Comedy",2016,2.5
+"205200",0.590181039110383,13,205200,"Master Spy","Adventure|Children",2016,1.5
+"151313",0.553985827811272,13,151313,"Norm of the North","Adventure|Animation|Children|Comedy",2016,1.46052631578947
+"143245",0.76377715366567,13,143245,"The Little Prince","Animation|Fantasy",2015,3.72222222222222
+"199952",0.760706090590885,13,199952,"Savva. Heart of the Warrior","Adventure|Animation|Fantasy",2015,3.5
+"193169",0.750979488732695,13,193169,"Chateau De Sable","Action|Animation|Fantasy",2015,3.5
+"149658",0.748113211907846,13,149658,"Boruto: Naruto the Movie","Action|Animation|Fantasy",2015,3.45714285714286
+"161762",0.7301903506567,13,161762,"Belle and Sebastian: The Adventure Continues","Adventure|Children",2015,4
+"130075",0.727158921514512,13,130075,"Frozen Fever","Adventure|Animation",2015,3.15822784810127
+"134853",0.725540396844008,13,134853,"Inside Out","Adventure|Animation|Children|Comedy|Drama|Fantasy",2015,3.93240058910162
+"170125",0.719790394772446,13,170125,"Little Witch Academia: The Enchanted Parade","Action|Animation|Comedy|Fantasy",2015,3.7962962962963
+"152137",0.713546795920377,13,152137,"Pirate's Passage","Adventure|Animation|Children",2015,3.625
+"143440",0.707331067083393,13,143440,"Mune, le gardien de la lune","Animation|Children|Fantasy",2015,3.46153846153846
+"204810",0.705265118368663,13,204810,"Digimon Adventure Tri. - Chapter 1: Reunion","Adventure|Animation",2015,2.75
+"149826",0.701082264245209,13,149826,"Secret Society of Souptown","Adventure|Children",2015,3.5
+"184963",0.697942145281699,13,184963,"Taking Flight","Adventure|Animation|Children",2015,3.33333333333333
+"148478",0.695211051294353,13,148478,"Monkey King: Hero Is Back","Animation|Comedy|Fantasy",2015,3.66666666666667
+"200386",0.694982096039748,13,200386,"Detective Conan: Sunflowers of Inferno","Adventure|Animation|Crime|Mystery",2015,3.375
+"130520",0.693957146765422,13,130520,"Home","Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi",2015,3.30522456461962
+"144962",0.692323606371743,13,144962,"Phantom Boy","Adventure|Animation|Children",2015,3.25
+"136640",0.691018534131988,13,136640,"Back to the Jurassic","Adventure|Animation|Children",2015,3.25
+"139855",0.690615630956021,13,139855,"Anomalisa","Animation|Comedy|Fantasy",2015,3.55569461827284
+"169846",0.688206901179349,13,169846,"Sword of D'Artagnan","Adventure|Children",2015,3.25
+"151731",0.681407676625379,13,151731,"April and the Twisted World","Adventure|Animation|Comedy",2015,3.45774647887324
+"136309",0.676639266534116,13,136309,"Scooby-Doo! Moon Monster Madness","Adventure|Animation|Children",2015,2.975
+"202235",0.674721733699788,13,202235,"Kidnep","Adventure|Children",2015,3
+"136016",0.674621098822985,13,136016,"The Good Dinosaur","Adventure|Animation|Children|Comedy|Fantasy",2015,3.1632548618219
+"153414",0.673768699553104,13,153414,"We Are the Pirates of the Roads","Adventure|Children",2015,3
+"171615",0.670041391920089,13,171615,"Minions: Binky Nelson Unpacified","Adventure|Animation|Comedy",2015,3.25
+"148976",0.668490205173089,13,148976,"Marvel Super Hero Adventures: Frost Fight!","Animation|Fantasy",2015,2.07142857142857
+"131656",0.668250388805243,13,131656,"Shaun the Sheep Movie","Adventure|Animation|Children|Comedy",2015,3.47836538461538
+"145935",0.653044874804328,13,145935,"Peanuts Movie, The","Adventure|Animation|Children|Comedy",2015,3.20833333333333
+"171945",0.652353404723015,13,171945,"Monster High: Haunted","Animation|Children|Fantasy",2015,2.5
+"126482",0.651309064940185,13,126482,"Strange Magic","Animation|Children|Fantasy|Musical",2015,3.1171875
+"135887",0.648896048509501,13,135887,"Minions","Adventure|Animation|Children|Comedy",2015,3.08302836230558
+"129826",0.648274320864277,13,129826,"LEGO DC Comics Super Heroes: Justice League vs. Bizarro League","Action|Adventure|Animation|Children",2015,2.3
+"152940",0.639933447274861,13,152940,"Capture the Flag","Adventure|Animation|Comedy",2015,2.73076923076923
+"129370",0.634742200521937,13,129370,"SpongeBob Movie: Sponge Out of Water, The","Adventure|Animation|Children|Comedy",2015,2.8942731277533
+"166763",0.627803808804141,13,166763,"Three Heroes and Julius Caesar","Adventure|Animation|Comedy|Fantasy",2015,2.07692307692308
+"189747",0.599557942442737,13,189747,"Why I Did (Not) Eat My Father","Adventure|Animation|Comedy",2015,2
+"158428",0.591480753544915,13,158428,"Alvin and the Chipmunks: The Road Chip","Adventure|Animation|Children|Comedy",2015,2.12820512820513
+"150230",0.563759901458601,13,150230,"Cool Cat Saves the Kids","Adventure|Children",2015,1.07894736842105
+"195529",0.797590184637373,13,195529,"Mushishi: The Shadow That Devours the Sun","Adventure|Animation|Fantasy",2014,4.16666666666667
+"203902",0.779288451846957,13,203902,"Simulacra","Animation|Fantasy",2014,4
+"190325",0.766059248962486,13,190325,"Beyond Beyond","Adventure|Animation",2014,3.83333333333333
+"199562",0.750788451846957,13,199562,"Chronus","Animation|Fantasy",2014,3.5
+"117913",0.743787109587953,13,117913,"Scooby-Doo! Frankencreepy","Adventure|Animation|Children|Mystery",2014,3.88888888888889
+"140699",0.743666252920377,13,140699,"Dragon Nest: Warriors' Dawn","Adventure|Animation|Children|Fantasy",2014,3.83333333333333
+"117444",0.738457395141734,13,117444,"Song of the Sea","Animation|Children|Fantasy",2014,4.00812274368231
+"152569",0.726621625721624,13,152569,"The Boxcar Children","Adventure|Animation|Children",2014,3.86363636363636
+"108932",0.722633271247831,13,108932,"The Lego Movie","Action|Adventure|Animation|Children|Comedy|Fantasy",2014,3.68691869186919
+"145082",0.714213310450837,13,145082,"The Snow Queen 2: Refreeze","Adventure|Animation|Children|Fantasy",2014,3.3
+"203461",0.708040169849166,13,203461,"K: Missing Kings","Action|Animation|Fantasy",2014,2.75
+"132632",0.701017704666655,13,132632,"The Pirate Fairy","Animation|Children|Fantasy",2014,3.37951807228916
+"132977",0.69920988025077,13,132977,"The House of Magic","Adventure|Animation|Children|Fantasy",2014,3.05357142857143
+"184845",0.698925610866906,13,184845,"The Looking Planet","Adventure|Animation",2014,2.66666666666667
+"132630",0.69853354904632,13,132630,"Tinker Bell and the Legend of the NeverBeast","Adventure|Animation|Children",2014,3.3804347826087
+"115664",0.694142392027626,13,115664,"The Book of Life","Adventure|Animation|Romance",2014,3.52524038461538
+"191017",0.692747309557287,13,191017,"Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five","Adventure|Animation|Children",2014,3.25
+"189179",0.684036371010492,13,189179,"Mummy, I'm a Zombie","Animation|Fantasy",2014,2.33333333333333
+"133135",0.683749133909648,13,133135,"Barbie and the Secret Door","Adventure|Animation|Children|Fantasy",2014,2.78
+"114552",0.68246402441367,13,114552,"Boxtrolls, The","Adventure|Animation|Children|Comedy|Fantasy",2014,3.33462732919255
+"158777",0.672616038509638,13,158777,"A Little Game","Adventure|Children",2014,3
+"130034",0.666826738714027,13,130034,"Stand by Me Doraemon","Animation|Children|Drama|Fantasy",2014,3.23529411764706
+"109846",0.666001331377205,13,109846,"Mr. Peabody & Sherman","Adventure|Animation|Comedy",2014,3.2013358778626
+"165153",0.659261690483744,13,165153,"LEGO DC Comics Super Heroes: Batman: Be-Leaguered","Action|Adventure|Animation|Children",2014,2.5
+"196613",0.657024950143397,13,196613,"Party Central","Animation|Children|Comedy|Fantasy",2014,3.25
+"132280",0.653218894561918,13,132280,"Rico, Oskar und die Tieferschatten","Adventure|Children|Comedy",2014,3.5
+"117851",0.653148839363397,13,117851,"Penguins of Madagascar","Adventure|Animation|Children|Comedy",2014,3.21845794392523
+"171953",0.647543403178242,13,171953,"Monster High: Frights, Camera, Action!","Animation|Children|Fantasy",2014,2.42857142857143
+"110655",0.64593940891266,13,110655,"Rio 2","Adventure|Animation|Children|Comedy",2014,3.09978540772532
+"148711",0.645377687902196,13,148711,"Steak (R)évolution","Adventure|Children|Documentary",2014,2.85
+"134678",0.643431297045881,13,134678,"The Games Maker","Adventure|Children",2014,2.5
+"112460",0.642087595639411,13,112460,"Planes: Fire & Rescue","Adventure|Animation|Comedy",2014,2.79527559055118
+"132626",0.635297531908265,13,132626,"Peter Pan Live","Adventure|Children",2014,2.36363636363636
+"110130",0.63240321911675,13,110130,"Nut Job, The","Adventure|Animation|Children|Comedy",2014,2.87025316455696
+"148240",0.630934003078804,13,148240,"Elf: Buddy's Musical Christmas","Animation|Children|Fantasy",2014,2.16666666666667
+"160104",0.626275355437629,13,160104,"Ribbit","Adventure|Animation|Children|Comedy",2014,2.75
+"141154",0.625245514932289,13,141154,"Against the Wild","Adventure|Children",2014,2.16666666666667
+"136764",0.619199375991552,13,136764,"Postman Pat: The Movie","Adventure|Animation|Children",2014,2
+"196693",0.617320594210227,13,196693,"Dragons: Dawn Of The Dragon Racers","Adventure|Animation|Children|Comedy|Fantasy",2014,2.18181818181818
+"151923",0.60957286761662,13,151923,"Transylvanian Garlic","Adventure|Children|Comedy",2014,2.75
+"117885",0.584629359236707,13,117885,"Grumpy Cat's Worst Christmas Ever","Adventure|Children|Comedy",2014,2.32608695652174
+"196587",0.539667767035672,13,196587,"Sophia Grace & Rosie's Royal Adventure","Adventure|Children|Comedy",2014,1.5
+"204822",0.796792633776322,13,204822,"Magical Sisters Yoyo & Nene","Adventure|Animation|Fantasy",2013,4.16666666666667
+"130510",0.772800162685122,13,130510,"Berserk: The Golden Age Arc 3 - Descent","Action|Animation|Fantasy",2013,3.925
+"116905",0.744160474165072,13,116905,"Patema Inverted","Adventure|Animation|Drama|Fantasy|Sci-Fi",2013,3.8072625698324
+"163809",0.742365260436042,13,163809,"Over the Garden Wall","Adventure|Animation|Drama",2013,4.25824175824176
+"102720",0.740146051449079,13,102720,"Epic","Adventure|Animation|Fantasy",2013,3.1894451962111
+"108056",0.739049726914312,13,108056,"Pokémon Origins","Adventure|Animation",2013,3.40697674418605
+"137401",0.738779938512645,13,137401,"The Stream","Adventure|Children|Comedy",2013,5
+"107953",0.738318543165781,13,107953,"Dragon Ball Z: Battle of Gods","Action|Animation|Fantasy|IMAX",2013,3.32885906040268
+"142513",0.738160362908429,13,142513,"Hunter × Hunter: Phantom Rouge","Adventure|Animation",2013,3.38888888888889
+"144664",0.736755144646392,13,144664,"Ostwind","Adventure|Children",2013,4.14285714285714
+"123423",0.731656346222519,13,123423,"Return to Nim's Island","Adventure|Children",2013,4.0625
+"143391",0.719032410683019,13,143391,"The Lost Medallion: The Adventures of Billy Stone","Adventure|Children",2013,3.83333333333333
+"140196",0.708800667572749,13,140196,"Monster High: Scaris City of Frights","Animation|Fantasy",2013,2.8125
+"142843",0.692500133357224,13,142843,"Little Witch Academia","Action|Animation|Comedy|Fantasy",2013,3.36363636363636
+"103141",0.688744239440948,13,103141,"Monsters University","Adventure|Animation|Comedy",2013,3.50242326332795
+"115065",0.686952409150158,13,115065,"Justin and the Knights of Valour","Adventure|Animation",2013,2.5
+"136251",0.684713176189051,13,136251,"Scooby-Doo! Stage Fright","Adventure|Animation|Children",2013,3.15217391304348
+"125541",0.678809442589792,13,125541,"Anina","Adventure|Animation|Children",2013,3.0625
+"134639",0.678713736422052,13,134639,"My Sister's Kids in Africa","Adventure|Children|Comedy",2013,4
+"104097",0.67733422359729,13,104097,"My Little Pony: Equestria Girls","Animation|Children|Fantasy",2013,2.98809523809524
+"133159",0.676776905720394,13,133159,"Barbie: Mariposa and The Fairy Princess","Animation|Children|Fantasy",2013,2.96774193548387
+"101142",0.676293300065313,13,101142,"Croods, The","Adventure|Animation|Comedy",2013,3.35922865013774
+"106696",0.673596432785119,13,106696,"Frozen","Adventure|Animation|Comedy|Fantasy|Musical|Romance",2013,3.48504155124654
+"177511",0.672041726362576,13,177511,"I Give You My Word","Adventure|Children",2013,3
+"116979",0.671515573948905,13,116979,"The Legend of Sarila","Adventure|Animation|Children",2013,2.91666666666667
+"165929",0.667850204378182,13,165929,"Ivan Tsarevich & the Grey Wolf 2","Adventure|Animation|Children",2013,2.85
+"205158",0.664334300442988,13,205158,"Wonder Garden","Animation|Fantasy",2013,2
+"118876",0.663752576037901,13,118876,"Khumba","Adventure|Animation|Children",2013,2.8
+"103755",0.660858788018786,13,103755,"Turbo","Adventure|Animation|Children|Comedy|Fantasy",2013,2.97054140127389
+"199690",0.65833251000517,13,199690,"Minions: Training Wheels","Adventure|Animation|Children|Comedy|Sci-Fi",2013,3
+"105468",0.657710073778428,13,105468,"Cloudy with a Chance of Meatballs 2","Animation|Children|Comedy|Fantasy",2013,3.27331349206349
+"116213",0.657343690217802,13,116213,"Walking With Dinosaurs","Adventure|Animation|Children",2013,2.68181818181818
+"107958",0.655657262280831,13,107958,"Foosball (Metegol)","Adventure|Animation|Romance",2013,2.89583333333333
+"186743",0.652513387989996,13,186743,"North 24 Kaatham","Adventure|Children|Comedy",2013,3.5
+"114945",0.650142878827021,13,114945,"Jack and the Cuckoo-Clock Heart (Jack et la mécanique du coeur)","Adventure|Animation|Drama|Fantasy|Musical|Romance",2013,3.15322580645161
+"142632",0.64813950357289,13,142632,"Oh Willy...","Adventure|Animation|Drama",2013,2.64285714285714
+"171941",0.644181337389007,13,171941,"Monster High: 13 Wishes","Animation|Children|Fantasy",2013,2.38888888888889
+"104245",0.635911756198611,13,104245,"Planes","Adventure|Animation|Comedy",2013,2.70422535211268
+"113497",0.627622152217069,13,113497,"Antboy","Adventure|Children|Comedy",2013,3.08333333333333
+"121115",0.612650121213111,13,121115,"Tarzan","Adventure|Animation|Children|Drama",2013,2.33333333333333
+"132313",0.596279938512645,13,132313,"Zip & Zap and the Marble Gang","Adventure|Children|Comedy",2013,2.5
+"200684",0.587311712889642,13,200684,"The Land of Good Little Kids","Adventure|Children",2013,1.5
+"132364",0.545471552062438,13,132364,"Belka and Strelka: Moon Adventures","Adventure|Animation|Comedy",2013,1.125
+"101962",0.777122263657378,13,101962,"Wolf Children (Okami kodomo no ame to yuki)","Animation|Fantasy",2012,4.00798258345428
+"130506",0.758817194321504,13,130506,"Berserk: The Golden Age Arc 2 - The Battle for Doldrey","Action|Animation|Fantasy",2012,3.696
+"117418",0.737532002503983,13,117418,"Victor and the Secret of Crocodile Mansion","Adventure|Children|Mystery",2012,3.8
+"98243",0.727275242837107,13,98243,"Rise of the Guardians","Adventure|Animation|Children|Fantasy|IMAX",2012,3.52343352012226
+"95167",0.72628336946069,13,95167,"Brave","Action|Adventure|Animation|Children",2012,3.52742346938776
+"116217",0.711026546138405,13,116217,"Secret of the Wings","Adventure|Animation|Children|Fantasy",2012,3.29090909090909
+"99764",0.710887852741755,13,99764,"It's Such a Beautiful Day","Animation|Comedy|Drama|Fantasy|Sci-Fi",2012,4.00369458128079
+"208267",0.709322351104258,13,208267,"Ella and Friends","Adventure|Children|Comedy",2012,4.5
+"201474",0.684673606143504,13,201474,"Do You Like to Read?","Animation|Comedy|Fantasy",2012,3.5
+"171955",0.682674170886886,13,171955,"Monster High: Escape from Skull Shores","Animation|Children|Fantasy",2012,3.08333333333333
+"96281",0.678855879318498,13,96281,"ParaNorman","Adventure|Animation|Comedy",2012,3.45034542314335
+"136361",0.676724886264917,13,136361,"Scooby-Doo! Mask of the Blue Falcon","Adventure|Animation|Children|Comedy|Fantasy",2012,3.28571428571429
+"183501",0.669692827998749,13,183501,"Feral","Animation|Drama|Fantasy|Sci-Fi",2012,2.71428571428571
+"124332",0.668114832662371,13,124332,"Snow Queen","Animation|Fantasy",2012,2.125
+"93272",0.666810219825262,13,93272,"Dr. Seuss' The Lorax","Animation|Fantasy|Musical|IMAX",2012,3.13951310861423
+"95543",0.665698770196367,13,95543,"Ice Age 4: Continental Drift","Adventure|Animation|Comedy",2012,3.20079522862823
+"94833",0.657333122329251,13,94833,"Pirates! Band of Misfits, The","Adventure|Animation|Children|Comedy",2012,3.35625
+"105928",0.654022207846152,13,105928,"Day of the Crows, The (Le jour des corneilles)","Animation|Children|Comedy|Fantasy",2012,3.27777777777778
+"95105",0.64941774189344,13,95105,"Madagascar 3: Europe's Most Wanted","Adventure|Animation|Children|Comedy|IMAX",2012,3.17740619902121
+"105217",0.634598983868556,13,105217,"Adventures in Zambezia","Adventure|Animation|Children|Comedy",2012,2.95
+"126577",0.630220523680681,13,126577,"Daddy, I'm A Zombie","Animation|Comedy|Fantasy",2012,2.57142857142857
+"102794",0.626015989070219,13,102794,"After School Midnighters (Hôkago middonaitâzu)","Action|Animation|Children|Comedy|Fantasy",2012,2.5
+"108237",0.625446335423105,13,108237,"HOUBA! On the Trail of the Marsupilami (Sur la piste du Marsupilami)","Adventure|Children|Comedy|IMAX",2012,3.0625
+"142853",0.622117260124777,13,142853,"The Mole at the Sea","Adventure|Animation|Comedy",2012,2.5
+"109102",0.619233777368368,13,109102,"Little Brother, Big Trouble: A Christmas Adventure (Niko 2: Lentäjäveljekset)","Adventure|Animation|Children|Comedy",2012,2.66666666666667
+"124279",0.617430254255936,13,124279,"SeaFood","Adventure|Animation|Children|Comedy",2012,2.625
+"121157",0.61039469904324,13,121157,"Tad, the Lost Explorer","Adventure|Animation|Children|Comedy",2012,2.52272727272727
+"173631",0.600840756782182,13,173631,"The Giant King","Animation|Children|Comedy|Fantasy|Sci-Fi",2012,2
+"103120",0.598658714231417,13,103120,"Beverly Hills Chihuahua 3","Adventure|Children|Comedy",2012,2.59090909090909
+"134526",0.571459429314236,13,134526,"Zodiac: The Race Begins...","Adventure|Animation",2012,0.5
+"148618",0.55157707957556,13,148618,"Dino Time","Adventure|Animation|Children|Comedy",2012,1.5
+"140275",0.754296426273659,13,140275,"Tales of the Night","Animation|Fantasy",2011,3.64705882352941
+"126112",0.742401456007555,13,126112,"The Great Bear","Adventure|Animation|Children|Fantasy",2011,3.83333333333333
+"117877",0.741120992316869,13,117877,"The Rabbi's Cat (Le chat du rabbin)","Adventure|Animation",2011,3.48181818181818
+"131066",0.731219021055775,13,131066,"Ronal the Barbarian","Adventure|Animation|Fantasy",2011,3.07857142857143
+"162978",0.717501031317386,13,162978,"Broken Blade: Book Five - The Horizon Between Life and Death","Action|Animation|Fantasy",2011,3
+"145731",0.717250148293314,13,145731,"War of the Buttons","Adventure|Children",2011,3.83333333333333
+"199730",0.715334074290673,13,199730,"Heaven's Lost Property the Movie: The Angeloid of Clockwork","Animation|Comedy|Fantasy|Romance",2011,4.5
+"128540",0.70653587923328,13,128540,"The Gruffalo's Child","Adventure|Animation|Children|Fantasy",2011,3.23333333333333
+"150379",0.706494087065945,13,150379,"Legend of the Millennium Dragon","Adventure|Animation|Fantasy|Sci-Fi",2011,2.64285714285714
+"126544",0.702588010282414,13,126544,"The Flying Machine","Adventure|Animation|Children",2011,3.5
+"117454",0.702320475761831,13,117454,"The Magic Crystal","Adventure|Animation|Children|Comedy|Fantasy",2011,3.75
+"134751",0.690985896290809,13,134751,"The Fantastic Flying Books of Mr. Morris Lessmore","Adventure|Animation|Children|Drama",2011,3.74074074074074
+"133133",0.690391853416828,13,133133,"Barbie: Princess Charm School","Animation|Children|Fantasy",2011,3.24193548387097
+"90647",0.688622776159236,13,90647,"Puss in Boots","Adventure|Animation|Comedy|Fantasy|IMAX",2011,3.17904817179338
+"146662",0.687389356689307,13,146662,"Dragons: Gift of the Night Fury","Adventure|Animation|Comedy",2011,3.63265306122449
+"171957",0.686740699609271,13,171957,"Monster High: Why Do Ghouls Fall in Love?","Animation|Fantasy",2011,2.44444444444444
+"117922",0.686648374761226,13,117922,"Ice Age: A Mammoth Christmas","Adventure|Animation|Children",2011,3.21691176470588
+"87222",0.684744565652698,13,87222,"Kung Fu Panda 2","Action|Adventure|Animation|Children|Comedy|IMAX",2011,3.47784507491234
+"171745",0.68266158467797,13,171745,"Scrat's Continental Crack-Up: Part 2","Adventure|Animation|Comedy",2011,3.54166666666667
+"92944",0.681819832181008,13,92944,"Monster in Paris, A (Un monstre à Paris)","Adventure|Animation|Children",2011,3.13986013986014
+"145733",0.669750148293314,13,145733,"(The New) War of the Buttons","Adventure|Children",2011,3
+"115879",0.664877004587674,13,115879,"Toy Story Toons: Small Fry","Adventure|Animation|Children|Comedy|Fantasy",2011,3.09210526315789
+"171947",0.6627165834785,13,171947,"Monster High: Fright On!","Animation|Children|Fantasy",2011,2.75
+"133137",0.662338185548943,13,133137,"Barbie: A Fairy Secret","Animation|Children|Fantasy",2011,2.75
+"115875",0.660092350543599,13,115875,"Toy Story Toons: Hawaiian Vacation","Adventure|Animation|Children|Comedy|Fantasy",2011,3.01162790697674
+"84944",0.654895462943939,13,84944,"Rango","Action|Adventure|Animation|Children|Comedy|Western",2011,3.34408747300216
+"183549",0.651959324284335,13,183549,"High School of the Dead OVA: Drifters of the Dead","Adventure|Animation|Comedy",2011,3
+"86298",0.650659417160239,13,86298,"Rio","Adventure|Animation|Children|Comedy",2011,3.19885229540918
+"193962",0.637767721125293,13,193962,"Book of Dragons","Action|Animation|Comedy|Fantasy",2011,2.41666666666667
+"124404",0.627137397857774,13,124404,"Snowflake, the White Gorilla","Adventure|Animation|Children|Comedy",2011,2.83333333333333
+"87876",0.625530365099784,13,87876,"Cars 2","Adventure|Animation|Children|Comedy|IMAX",2011,2.77213452299245
+"84637",0.623010215222733,13,84637,"Gnomeo & Juliet","Adventure|Animation|Children|Comedy|Fantasy|Romance",2011,2.66982622432859
+"156137",0.509019317951146,13,156137,"Jock of the Bushveld","Adventure|Animation|Children|Comedy",2011,0.75
+"192349",0.480364763695872,13,192349,"Horrid Henry: The Movie","Adventure|Children|Comedy",2011,0.5
+"196965",0.813206021376947,13,196965,"Fate/Stay Night: Unlimited Blade Works","Action|Animation|Fantasy",2010,4.66666666666667
+"76093",0.76710478802242,13,76093,"How to Train Your Dragon","Adventure|Animation|Children|Fantasy|IMAX",2010,3.91126292199812
+"80834",0.750889918118871,13,80834,"Sintel","Animation|Fantasy",2010,3.61607142857143
+"165533",0.749691757632667,13,165533,"DC Showcase: Green Arrow","Adventure|Animation",2010,3.625
+"162970",0.740811349599601,13,162970,"Broken Blade: Book One - The Time of Awakening","Action|Animation|Fantasy",2010,3.41666666666667
+"80615",0.738949694498402,13,80615,"Legend of the Guardians: The Owls of Ga'Hoole","Adventure|Animation|Fantasy|IMAX",2010,3.21934865900383
+"180181",0.731217811320468,13,180181,"Umbra","Adventure|Animation|Drama|Fantasy",2010,3.75
+"78499",0.731153147608632,13,78499,"Toy Story 3","Adventure|Animation|Children|Comedy|Fantasy|IMAX",2010,3.85775682794954
+"92210",0.730946073892779,13,92210,"Disappearance of Haruhi Suzumiya, The (Suzumiya Haruhi no shôshitsu)","Adventure|Animation|Drama|Mystery|Sci-Fi",2010,3.68238993710692
+"178683",0.729916145418302,13,178683,"Danny Boy","Animation|Fantasy",2010,3.21428571428571
+"112512",0.72382827120591,13,112512,"Colourful (Karafuru)","Animation|Drama|Fantasy|Mystery",2010,3.66666666666667
+"83132",0.723275678889401,13,83132,"Secret World of Arrietty, The (Kari-gurashi no Arietti)","Animation|Children|Fantasy",2010,3.80562659846547
+"164895",0.719195507194243,13,164895,"You Are Umasou","Adventure|Animation|Children",2010,3.8
+"162972",0.716543443909,13,162972,"Broken Blade: Book Three - The Mark of the Assassin's Dagger","Action|Animation|Fantasy",2010,3
+"162976",0.716543443909,13,162976,"Broken Blade: Book Four - The Earth of Calamity","Action|Animation|Fantasy",2010,3
+"199832",0.710291959923742,13,199832,"How to Train Your Dragon - Legends","Adventure|Animation|Children",2010,3.625
+"81637",0.709600082136547,13,81637,"Turtle's Tale: Sammy's Adventures, A","Adventure|Animation",2010,2.95
+"162974",0.70717292033165,13,162974,"Broken Blade: Book Two - The Split Path","Action|Animation|Fantasy",2010,2.83333333333333
+"171833",0.705186151819845,13,171833,"Surviving Life (Theory and Practice)","Animation|Comedy|Fantasy",2010,3.90909090909091
+"133219",0.705023321956741,13,133219,"Tinker Bell and the Great Fairy Rescue","Adventure|Animation|Children|Fantasy",2010,3.21875
+"162958",0.699710630804083,13,162958,"Moomins and the Comet Chase","Adventure|Animation",2010,2.75
+"74115",0.6976422644239,13,74115,"Dante's Inferno Animated","Action|Animation|Fantasy",2010,2.73611111111111
+"154378",0.697070193868689,13,154378,"Kooky","Adventure|Children",2010,3.5
+"141166",0.678792585983166,13,141166,"Arthur 3: The War of the Two Worlds","Adventure|Animation|Children|Fantasy",2010,2.75454545454545
+"133145",0.673978973057723,13,133145,"Barbie in A Mermaid Tale","Animation|Children|Fantasy",2010,2.97368421052632
+"122129",0.664578319228197,13,122129,"Scooby-Doo! Camp Scare","Adventure|Animation|Children|Comedy|Mystery",2010,3.14285714285714
+"141942",0.662572654694866,13,141942,"Pokémon: Zoroark: Master of Illusions","Adventure|Animation|Children",2010,2.82
+"78637",0.662177772991618,13,78637,"Shrek Forever After (a.k.a. Shrek: The Final Chapter)","Adventure|Animation|Children|Comedy|Fantasy|IMAX",2010,3.00656455142232
+"81847",0.659905768391989,13,81847,"Tangled","Animation|Children|Comedy|Fantasy|Musical|Romance|IMAX",2010,3.73333333333333
+"81711",0.652513569677626,13,81711,"Scared Shrekless","Adventure|Animation|Comedy",2010,3.05625
+"166765",0.645770485726011,13,166765,"Tri bogatyrya i Shamakhanskaya tsaritsa","Adventure|Animation|Children|Comedy",2010,3.16216216216216
+"122519",0.642926903192456,13,122519,"The Search for Santa Paws","Adventure|Children",2010,2.54545454545455
+"199694",0.623221864339984,13,199694,"Despicable Me Presents: Minion Madness","Adventure|Animation|Children|Comedy",2010,2.75
+"113991",0.620843089504978,13,113991,"Care Bears to the Rescue (Care Bears: To the Rescue Movie)","Adventure|Animation|Children|Fantasy",2010,1.75
+"140830",0.602560738960326,13,140830,"The Legend Of Secret Pass","Animation|Children|Fantasy",2010,1.71428571428571
+"85295",0.599604001847009,13,85295,"Scooby-Doo! Curse of the Lake Monster","Adventure|Children|Comedy|Mystery",2010,2.15151515151515
+"88468",0.592126681497223,13,88468,"Alpha and Omega","Adventure|Animation|Children|Comedy|Romance",2010,2.53985507246377
+"178681",0.578392343767046,13,178681,"Brødrene Dal og vikingsverdets forbannelse","Adventure|Children|Comedy",2010,2.25
+"199918",0.532161805917115,13,199918,"Rainbow Magic: Return to Rainspell Island","Adventure|Animation|Children",2010,0.5
+"74553",0.761916642431037,13,74553,"Secret of Kells, The","Animation|Fantasy",2009,3.80830280830281
+"66097",0.748190947404769,13,66097,"Coraline","Animation|Fantasy|Thriller",2009,3.71891271056662
+"68954",0.743487255271109,13,68954,"Up","Adventure|Animation|Children|Drama",2009,3.96358498825964
+"167126",0.737831372900222,13,167126,"Alma","Animation|Fantasy|Mystery",2009,3.25
+"182643",0.719411739806525,13,182643,"The Cat Piano","Animation|Fantasy",2009,3.04545454545455
+"103190",0.715174720128413,13,103190,"Oblivion Island: Haruka and the Magic Mirror (Hottarake no shima - Haruka to maho no kagami)","Adventure|Animation|Fantasy",2009,2.84615384615385
+"116219",0.703366938118562,13,116219,"Tinker Bell and the Lost Treasure","Adventure|Animation|Children|Fantasy",2009,3.20707070707071
+"71264",0.699147841258585,13,71264,"Cloudy with a Chance of Meatballs","Animation|Children|Fantasy|IMAX",2009,3.34287709497207
+"189075",0.696709658726821,13,189075,"Timetrip: The Curse of the Viking Witch","Adventure|Children",2009,3.5
+"72356",0.690002267934527,13,72356,"Partly Cloudy","Animation|Children|Comedy|Fantasy",2009,3.92505030181087
+"136483",0.688819045427096,13,136483,"Prep & Landing","Animation|Children|Fantasy",2009,3.25
+"128362",0.686356972205638,13,128362,"Burn Paris Burn","Animation|Fantasy|Mystery",2009,2.375
+"116499",0.685858230586908,13,116499,"The True Story of Puss 'n Boots","Adventure|Animation|Children",2009,3.25
+"72226",0.667205364776844,13,72226,"Fantastic Mr. Fox","Adventure|Animation|Children|Comedy|Crime",2009,3.8713536545395
+"96621",0.665528411774786,13,96621,"Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard)","Animation|Children|Fantasy",2009,2.84146341463415
+"72294",0.66087048453407,13,72294,"Christmas Carol, A","Animation|Children|Drama|Fantasy|IMAX",2009,3.20546558704453
+"69644",0.654266546891892,13,69644,"Ice Age: Dawn of the Dinosaurs","Action|Adventure|Animation|Children|Comedy|Romance",2009,3.28712534059945
+"72737",0.651318245475225,13,72737,"Princess and the Frog, The","Animation|Children|Fantasy|Musical|Romance",2009,3.48467347845402
+"189467",0.650044149467562,13,189467,"Ed, Edd n Eddy's Big Picture Show","Adventure|Animation|Comedy",2009,3
+"72701",0.645617109141223,13,72701,"Planet 51","Adventure|Animation|Children|Comedy|Sci-Fi",2009,2.88307692307692
+"141341",0.64385545584235,13,141341,"The Three Investigators and the Secret of Terror Castle","Adventure|Children|Mystery",2009,2.16666666666667
+"124927",0.642749262781727,13,124927,"Toys in the Attic","Animation|Children|Fantasy|Thriller",2009,2.5
+"91335",0.630190543214868,13,91335,"Gruffalo, The","Adventure|Animation|Children|Comedy|Drama",2009,3.15
+"66304",0.597257036723908,13,66304,"Hotel for Dogs","Adventure|Children|Comedy",2009,2.64858490566038
+"154852",0.553175440679103,13,154852,"Twigson","Adventure|Children|Comedy",2009,1.83333333333333
+"60069",0.759698890991012,13,60069,"WALL·E","Adventure|Animation|Children|Romance|Sci-Fi",2008,4.00493168700226
+"65261",0.743394313610056,13,65261,"Ponyo (Gake no ue no Ponyo)","Adventure|Animation|Children|Fantasy",2008,3.85170250896057
+"133893",0.732478225962827,13,133893,"Brave Story","Animation|Fantasy|Sci-Fi",2008,3.26923076923077
+"134374",0.712573711743428,13,134374,"Tinker Bell","Adventure|Animation|Children|Fantasy",2008,3.38429752066116
+"187987",0.711139642608018,13,187987,"Pro Fedota-streltsa, udalogo molodtsa","Adventure|Animation|Children",2008,3.68181818181818
+"95311",0.690417424698893,13,95311,"Presto","Animation|Children|Comedy|Fantasy",2008,3.94783197831978
+"73664",0.684030062822582,13,73664,"Dragon Hunters (Chasseurs de dragons)","Adventure|Animation|Children",2008,3.25431034482759
+"77709",0.679067580082124,13,77709,"Sky Crawlers, The (Sukai kurora)","Adventure|Animation|Drama",2008,3.29054054054054
+"63859",0.672314344147382,13,63859,"Bolt","Action|Adventure|Animation|Children|Comedy",2008,3.32205839838104
+"140228",0.665661154675412,13,140228,"Giratina and the Sky Warrior","Adventure|Animation|Children",2008,2.9
+"62999",0.664051066978689,13,62999,"Madagascar: Escape 2 Africa","Action|Adventure|Animation|Children|Comedy|IMAX",2008,3.20833333333333
+"133173",0.660561577169938,13,133173,"Barbie Mariposa and Her Butterfly Fairy Friends","Animation|Children|Fantasy",2008,2.76923076923077
+"122039",0.656278437276539,13,122039,"Snow Buddies","Adventure|Children",2008,2.81818181818182
+"65577",0.655220045792228,13,65577,"Tale of Despereaux, The","Adventure|Animation|Children|Comedy|Fantasy",2008,2.99275362318841
+"58299",0.651369634211983,13,58299,"Horton Hears a Who!","Adventure|Animation|Children|Comedy",2008,3.28218527315914
+"62729",0.646547635551642,13,62729,"Niko & the Way to the Stars (a.k.a. The Flight Before Christmas) (Niko - Lentäjän poika)","Adventure|Animation|Children|Drama|Fantasy",2008,2.68604651162791
+"65088",0.621532258932102,13,65088,"Bedtime Stories","Adventure|Children|Comedy",2008,3.060593569662
+"205046",0.62089532173439,13,205046,"Hells","Action|Animation|Comedy|Fantasy",2008,2.16666666666667
+"120440",0.616976497667818,13,120440,"Garfield's Fun Fest","Animation|Children|Comedy|Fantasy",2008,2.67857142857143
+"65435",0.615082678025988,13,65435,"Open Season 2","Adventure|Animation|Children|Comedy",2008,2.6965811965812
+"61267",0.606501836125154,13,61267,"Fly Me to the Moon","Adventure|Animation|Children|IMAX",2008,1.93055555555556
+"58324",0.602706759049519,13,58324,"Pirates Who Don't Do Anything: A VeggieTales Movie, The","Adventure|Animation|Children|Comedy",2008,2.5
+"64652",0.60164593327933,13,64652,"Delgo","Adventure|Animation|Comedy|Fantasy|Romance",2008,2.22222222222222
+"60649",0.598212934841659,13,60649,"Space Chimps","Adventure|Animation|Comedy",2008,2.16969696969697
+"161826",0.57777983098731,13,161826,"VeggieTales: Tomato Sawyer & Huckleberry Larry's Big River Rescue","Adventure|Animation|Children|Comedy",2008,2
+"63540",0.550833693196202,13,63540,"Beverly Hills Chihuahua","Adventure|Children|Comedy",2008,1.86186770428016
+"183415",0.529480080577694,13,183415,"A Fox's Tale","Adventure|Animation|Children",2008,0.5
+"165221",0.765383951099363,13,165221,"Elf Bowling the Movie","Animation|Comedy|Fantasy",2007,5
+"147304",0.752055674947374,13,147304,"Iblard Jikan","Animation|Fantasy",2007,3.66666666666667
+"97302",0.733798291744753,13,97302,"Madame Tutli-Putli","Animation|Fantasy",2007,3.35555555555556
+"115927",0.719208917299101,13,115927,"Doctor Strange","Action|Animation|Children|Fantasy|Sci-Fi",2007,3.49397590361446
+"200402",0.71898285510599,13,200402,"Detective Conan: Jolly Roger in the Deep Azure","Adventure|Animation",2007,3.125
+"116911",0.71789454989727,13,116911,"Yobi, The Five-Tailed Fox","Animation|Fantasy",2007,3.08333333333333
+"120781",0.714176647610383,13,120781,"Nocturna","Adventure|Animation|Children|Fantasy|Mystery",2007,3.27272727272727
+"207371",0.702777469617882,13,207371,"La leyenda de la Nahuala","Animation|Children|Fantasy",2007,3.5
+"136331",0.702504137158546,13,136331,"Chill Out, Scooby-Doo!","Action|Adventure|Animation|Children|Mystery",2007,3.1875
+"168690",0.695566708629139,13,168690,"Stan Lee Presents: Mosiac","Action|Animation|Fantasy",2007,2.66666666666667
+"136622",0.688260492064265,13,136622,"Pokémon: The Rise of Darkrai","Adventure|Animation|Children|Fantasy",2007,2.97058823529412
+"115238",0.668722841601364,13,115238,"Jungo Goes Bananas: Jungo III (Jungledyret Hugo: Fræk, flabet og fri)","Adventure|Animation|Children",2007,3
+"64249",0.667912511810711,13,64249,"Shrek the Halls","Adventure|Animation|Comedy|Fantasy",2007,2.94789579158317
+"53121",0.656407979337869,13,53121,"Shrek the Third","Adventure|Animation|Children|Comedy|Fantasy",2007,2.91045424907629
+"56152",0.654058898718678,13,56152,"Enchanted","Adventure|Animation|Children|Comedy|Fantasy|Musical|Romance",2007,3.48069448043535
+"149120",0.636504749021447,13,149120,"Hands off Mississippi","Adventure|Children|Comedy",2007,3.33333333333333
+"133163",0.628046662614014,13,133163,"Barbie Fairytopia: Magic of the Rainbow","Animation|Children|Fantasy|Romance",2007,2.75925925925926
+"131080",0.619320367451553,13,131080,"Cinderella III: A Twist in Time","Animation|Children|Fantasy|Musical|Romance",2007,3
+"154640",0.6066733433176,13,154640,"Max & Co","Adventure|Animation|Drama",2007,2
+"109104",0.582172302899368,13,109104,"Quest for a Heart (Röllin sydän)","Adventure|Animation|Children|Fantasy|Musical",2007,1.66666666666667
+"153398",0.745029099529019,13,153398,"Blood Tea and Red String","Animation|Fantasy|Sci-Fi",2006,3.5
+"193803",0.734260805386223,13,193803,"Bleach: Memories of Nobody","Animation|Fantasy|Sci-Fi",2006,3.3
+"52806",0.728460242035686,13,52806,"Tales from Earthsea (Gedo Senki)","Adventure|Animation|Fantasy",2006,3.13063063063063
+"204676",0.717615581693186,13,204676,"Hoshizora Kiseki","Animation|Fantasy|Sci-Fi",2006,3
+"72637",0.716688849211575,13,72637,"Printed Rainbow","Adventure|Animation|Fantasy",2006,3
+"80181",0.715221871793784,13,80181,"Elephants Dream","Animation|Fantasy|Sci-Fi",2006,3.03636363636364
+"46948",0.701778348581615,13,46948,"Monster House","Animation|Children|Fantasy|Mystery",2006,3.25108695652174
+"124983",0.698753680118903,13,124983,"Impy's Island","Animation|Children|Fantasy",2006,3.5
+"165961",0.689527410801375,13,165961,"Nikitich and The Dragon","Adventure|Animation|Comedy|Drama|Fantasy",2006,3.66666666666667
+"55856",0.687195244167531,13,55856,"Azur & Asmar (Azur et Asmar)","Adventure|Animation|Children",2006,3.35714285714286
+"161820",0.686142137616303,13,161820,"VeggieTales: LarryBoy & The Bad Apple","Adventure|Children",2006,3.375
+"171067",0.680767902281327,13,171067,"Korgoth of Barbaria","Animation|Comedy|Fantasy",2006,3.54545454545455
+"133165",0.672147032550939,13,133165,"Barbie Fairytopia: Mermaidia","Adventure|Animation|Children|Fantasy",2006,2.70588235294118
+"131248",0.671202587418991,13,131248,"Brother Bear 2","Adventure|Animation|Children|Comedy|Fantasy",2006,3.27816901408451
+"91355",0.66270533528787,13,91355,"Asterix and the Vikings (Astérix et les Vikings)","Adventure|Animation|Children|Comedy|Fantasy",2006,3.14646464646465
+"44022",0.652303355576088,13,44022,"Ice Age 2: The Meltdown","Adventure|Animation|Children|Comedy",2006,3.25936271466998
+"45431",0.649239980106451,13,45431,"Over the Hedge","Adventure|Animation|Children|Comedy",2006,3.26386377335744
+"47124",0.64154635004238,13,47124,"Ant Bully, The","Adventure|Animation|Children|Comedy|Fantasy|IMAX",2006,2.80285714285714
+"154838",0.638431112364771,13,154838,"Wool 100%","Animation|Comedy|Fantasy|Sci-Fi",2006,2.5
+"126921",0.637125878784635,13,126921,"The Fox and the Hound 2","Adventure|Animation|Children|Comedy",2006,3.09230769230769
+"49274",0.633590708867591,13,49274,"Happy Feet","Adventure|Animation|Children|Comedy|IMAX",2006,2.99149010072942
+"48414",0.627873034153248,13,48414,"Open Season","Adventure|Animation|Children|Comedy|IMAX",2006,2.94587628865979
+"48159",0.627156980817448,13,48159,"Everyone's Hero","Adventure|Animation|Children|Comedy",2006,2.96212121212121
+"43869",0.626331903385625,13,43869,"Curious George","Adventure|Animation|Children|Comedy",2006,2.96696696696697
+"45074",0.626235232923926,13,45074,"Wild, The","Adventure|Animation|Children|Comedy|Fantasy",2006,2.56148867313916
+"161822",0.61326169739821,13,161822,"VeggieTales: Sheerluck Holmes and the Golden Ruler","Adventure|Animation|Children",2006,2
+"45208",0.5932712696477,13,45208,"RV","Adventure|Children|Comedy",2006,2.62960609911055
+"136373",0.585104206912559,13,136373,"Drake And Josh Go Hollywood","Adventure|Children|Comedy|Crime",2006,2.95652173913043
+"127327",0.525265254192977,13,127327,"Khan Kluay","Adventure|Animation|Children",2006,0.5
+"115881",0.739543388613497,13,115881,"9","Animation|Fantasy",2005,3.47692307692308
+"136624",0.721059653106015,13,136624,"Pokémon: Lucario and the Mystery of Mew","Adventure|Animation|Fantasy",2005,3
+"98511",0.686262734223612,13,98511,"Kirikou and the Wild Beast (Kirikou et les bêtes sauvages)","Adventure|Animation|Children",2005,3.33333333333333
+"32031",0.676698995493811,13,32031,"Robots","Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi|IMAX",2005,3.1685393258427
+"38038",0.675735184812696,13,38038,"Wallace & Gromit in The Curse of the Were-Rabbit","Adventure|Animation|Children|Comedy",2005,3.69193324061196
+"123192",0.660677388138324,13,123192,"The Land Before Time XI: Invasion of the Tinysauruses","Animation|Children|Fantasy|Sci-Fi",2005,2.61363636363636
+"47805",0.660622087016905,13,47805,"Lassie","Adventure|Children",2005,3.025
+"33615",0.660612575531484,13,33615,"Madagascar","Adventure|Animation|Children|Comedy",2005,3.3605006549265
+"199736",0.653917705485446,13,199736,"Naruto the Movie: Legend of the Stone of Gelel","Adventure|Animation|Comedy|Drama|Fantasy|Sci-Fi",2005,2.83333333333333
+"140212",0.648122225315817,13,140212,"Tarzan II","Adventure|Animation|Children",2005,2.64583333333333
+"37729",0.644965618308347,13,37729,"Corpse Bride","Animation|Comedy|Fantasy|Musical|Romance",2005,3.55320834433589
+"195619",0.644057941206527,13,195619,"Kim Possible Movie: So the Drama","Action|Adventure|Animation|Children|Drama",2005,2.75
+"36397",0.640754127251998,13,36397,"Valiant","Adventure|Animation|Children|Comedy|Fantasy|War",2005,2.70953757225434
+"185151",0.623670975759942,13,185151,"Piratas en el Callao","Adventure|Animation",2005,1.5
+"121781",0.58413355649677,13,121781,"Stuart Little 3: Call of the Wild","Animation|Children|Comedy|Fantasy",2005,2.14583333333333
+"31658",0.754124315375421,13,31658,"Howl's Moving Castle (Hauru no ugoku shiro)","Adventure|Animation|Fantasy|Romance",2004,4.09327435312024
+"8961",0.743671827861576,13,8961,"Incredibles, The","Action|Adventure|Animation|Children|Comedy",2004,3.85488515149532
+"169520",0.711947745242654,13,169520,"Saint Seiya Heaven Chapter: Overture","Animation|Fantasy",2004,3
+"195519",0.702960496926628,13,195519,"Back to Gaya","Animation|Fantasy",2004,2.83333333333333
+"47404",0.702247602846258,13,47404,"Mind Game","Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi",2004,3.81818181818182
+"8965",0.696087338908175,13,8965,"Polar Express, The","Adventure|Animation|Children|Fantasy|IMAX",2004,3.10494362532524
+"199498",0.693170911096426,13,199498,"Blade of the Phantom Master","Adventure|Animation|Fantasy|Sci-Fi",2004,2.5
+"140383",0.690754373394425,13,140383,"Van Helsing: The London Assignment","Action|Animation|Fantasy|Horror",2004,3
+"180467",0.6673831804215,13,180467,"L'île de Black Mór","Adventure|Animation|Children",2004,3
+"8360",0.656091183061938,13,8360,"Shrek 2","Adventure|Animation|Children|Comedy|Musical|Romance",2004,3.47546786810575
+"131092",0.654668114849664,13,131092,"Mickey, Donald, Goofy: The Three Musketeers","Adventure|Animation|Children|Comedy",2004,3.43076923076923
+"135268",0.652520925236538,13,135268,"Zenon: Z3","Adventure|Children|Comedy",2004,3.66666666666667
+"145218",0.648358815262084,13,145218,"Balto III: Wings of Change","Adventure|Animation|Children",2004,2.66666666666667
+"174545",0.645664324170482,13,174545,"Pokémon: Destiny Deoxys","Adventure|Animation|Children|Fantasy",2004,2.26470588235294
+"8974",0.633781797159591,13,8974,"SpongeBob SquarePants Movie, The","Adventure|Animation|Children|Comedy",2004,3.10316139767055
+"8944",0.609923467497737,13,8944,"Dust Factory, The","Adventure|Children|Romance",2004,2.83333333333333
+"8526",0.606923084660704,13,8526,"Around the World in 80 Days","Adventure|Children|Comedy",2004,2.91467436108821
+"187027",0.759888043161064,13,187027,"Inuyasha the Movie 3: Swords of an Honorable Ruler","Animation|Fantasy|Sci-Fi",2003,3.8
+"173165",0.755491297806255,13,173165,"The Rain Children","Adventure|Animation",2003,3.85
+"72360",0.747773261024903,13,72360,"Rocks (Das Rad)","Action|Animation|Fantasy",2003,3.67441860465116
+"188681",0.742528739695645,13,188681,"Fast Film","Adventure|Animation",2003,3.61111111111111
+"6377",0.732080480778011,13,6377,"Finding Nemo","Adventure|Animation|Children|Comedy",2003,3.83397672274718
+"27800",0.721167881417855,13,27800,"Interstella 5555: The 5tory of the 5ecret 5tar 5ystem","Adventure|Animation|Fantasy|Musical|Sci-Fi",2003,3.75857519788918
+"165749",0.718345705440068,13,165749,"Little Longnose","Adventure|Animation|Children",2003,3.9
+"136467",0.713390160351929,13,136467,"Kim Possible: A Sitch in Time","Action|Adventure|Animation|Children",2003,3.62837837837838
+"8607",0.708831966274567,13,8607,"Tokyo Godfathers","Adventure|Animation|Drama",2003,3.89495040577096
+"6536",0.701015451503105,13,6536,"Sinbad: Legend of the Seven Seas","Adventure|Animation|Children|Fantasy",2003,3.32836710369487
+"6773",0.694177816681726,13,6773,"Triplets of Belleville, The (Les triplettes de Belleville)","Animation|Comedy|Fantasy",2003,3.8338688085676
+"6889",0.681987587189952,13,6889,"Brother Bear","Adventure|Animation|Children",2003,3.28405221339387
+"6297",0.673762466455045,13,6297,"Holes","Adventure|Children|Comedy|Mystery",2003,3.52073665893271
+"122425",0.665839412158005,13,122425,"The Land Before Time X: The Great Longneck Migration","Adventure|Animation|Children",2003,3
+"6946",0.658764518798817,13,6946,"Looney Tunes: Back in Action","Action|Animation|Children|Fantasy",2003,2.72066549912434
+"195515",0.657179617841782,13,195515,"The Ghost of Lord Farquaad","Animation|Children|Comedy|Fantasy|Sci-Fi",2003,3.125
+"136530",0.647740803542202,13,136530,"Pokémon: Jirachi Wish Maker","Action|Adventure|Animation|Children",2003,2.48484848484848
+"6485",0.582527031934891,13,6485,"Rugrats Go Wild!","Adventure|Animation|Children|Comedy",2003,2.29096989966555
+"128171",0.55967057650696,13,128171,"Beethoven's 5th","Adventure|Children|Comedy",2003,2.0625
+"172289",0.555625616858764,13,172289,"George of the Jungle 2","Adventure|Children|Comedy",2003,1.96774193548387
+"200412",0.738083441621822,13,200412,"Detective Conan: The Phantom of Baker Street","Adventure|Animation|Mystery",2002,3.4
+"27731",0.72545700054114,13,27731,"Cat Returns, The (Neko no ongaeshi)","Adventure|Animation|Children|Fantasy",2002,3.7327258921792
+"5444",0.715670959496131,13,5444,"Lilo & Stitch","Adventure|Animation|Children|Sci-Fi",2002,3.52421324903003
+"160846",0.713716613644019,13,160846,"American Legends","Animation|Children|Fantasy",2002,3.8
+"5882",0.705245614609117,13,5882,"Treasure Planet","Adventure|Animation|Children|Sci-Fi|IMAX",2002,3.46396023198012
+"5218",0.686033719325561,13,5218,"Ice Age","Adventure|Animation|Children|Comedy",2002,3.54018665934669
+"181099",0.681028190789913,13,181099,"A Tree of Palme","Adventure|Animation|Drama|Fantasy|Romance",2002,3.5
+"141934",0.677690665499211,13,141934,"Hamtaro: The Captive Princess","Adventure|Animation|Children|Fantasy",2002,2.875
+"122335",0.655915648508568,13,122335,"The Land Before Time IX: Journey to the Big Water","Adventure|Animation|Children",2002,2.83928571428571
+"187707",0.649493355765697,13,187707,"Hayflower and Quiltshoe","Adventure|Children|Comedy",2002,3.625
+"5109",0.645824542334202,13,5109,"Return to Never Land","Adventure|Animation|Children",2002,2.75112612612613
+"97732",0.639704451629451,13,97732,"Tom & Thomas","Adventure|Children",2002,2.66666666666667
+"5389",0.632116640525991,13,5389,"Spirit: Stallion of the Cimarron","Adventure|Animation|Children|Western",2002,3.15905315614618
+"5504",0.627378173410102,13,5504,"Spy Kids 2: The Island of Lost Dreams","Adventure|Children",2002,2.45034843205575
+"141493",0.609726207692066,13,141493,"The Hunchback of Notre Dame II","Adventure|Animation|Children|Romance",2002,2.5531914893617
+"5448",0.592561826720739,13,5448,"Hey Arnold! The Movie","Adventure|Animation|Children|Comedy",2002,2.47321428571429
+"5672",0.588943564111211,13,5672,"Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie)","Adventure|Animation|Children|Fantasy",2002,1.41396761133603
+"154368",0.57920145508208,13,154368,"The King's Beard","Adventure|Animation|Children",2002,1.5
+"5048",0.568632376098497,13,5048,"Snow Dogs","Adventure|Children|Comedy",2002,2.31544502617801
+"5618",0.821876745934805,13,5618,"Spirited Away (Sen to Chihiro no kamikakushi)","Adventure|Animation|Fantasy",2001,4.21226726528456
+"4886",0.753473905290158,13,4886,"Monsters, Inc.","Adventure|Animation|Children|Comedy|Fantasy",2001,3.84862027073933
+"4306",0.7428402121209,13,4306,"Shrek","Adventure|Animation|Children|Comedy|Fantasy|Romance",2001,3.75482826277096
+"150387",0.728133669089745,13,150387,"Princess Arete","Adventure|Animation|Fantasy",2001,3.18181818181818
+"4446",0.726931175561134,13,4446,"Final Fantasy: The Spirits Within","Adventure|Animation|Fantasy|Sci-Fi",2001,3.086248924577
+"4366",0.703138455309954,13,4366,"Atlantis: The Lost Empire","Adventure|Animation|Children|Fantasy",2001,3.31058823529412
+"57502",0.695398328566404,13,57502,"Cat Soup (Nekojiru-so)","Adventure|Animation|Drama|Horror",2001,3.82169117647059
+"122413",0.674134784976986,13,122413,"The Land Before Time VIII: The Big Freeze","Adventure|Animation|Children",2001,3.175
+"135266",0.647219712481523,13,135266,"Zenon: The Zequel","Adventure|Children|Comedy|Sci-Fi",2001,3.15853658536585
+"154446",0.645684763311726,13,154446,"The Pirates of Tortuga: Under the Black Flag","Adventure|Animation|Children|Comedy|Sci-Fi",2001,3
+"174543",0.644272735852212,13,174543,"Pokémon 4Ever: Celebi - Voice of the Forest","Adventure|Animation|Children|Fantasy|Sci-Fi",2001,2.17391304347826
+"119135",0.644052406026573,13,119135,"Momo","Animation|Children|Fantasy",2001,2.6
+"157729",0.638379576832597,13,157729,"Slayers Premium","Adventure|Animation|Comedy|Fantasy",2001,2.5
+"126733",0.619069039667115,13,126733,"Help! I'm A Fish","Adventure|Animation|Comedy",2001,2.61111111111111
+"135274",0.616284308601689,13,135274,"The Luck of the Irish","Adventure|Children|Comedy",2001,3.07692307692308
+"4990",0.615954194175024,13,4990,"Jimmy Neutron: Boy Genius","Adventure|Animation|Children|Comedy",2001,2.8563829787234
+"4158",0.595208506867669,13,4158,"Monkeybone","Animation|Comedy|Fantasy",2001,2.26143451143451
+"203246",0.570325926649045,13,203246,"ReBoot - My Two Bobs","Animation|Fantasy|Sci-Fi",2001,0.5
+"4016",0.693787815615742,13,4016,"Emperor's New Groove, The","Adventure|Animation|Children|Comedy|Fantasy",2000,3.6209520331142
+"146305",0.668876542645383,13,146305,"Princes and Princesses","Animation|Children|Comedy|Drama|Fantasy|Romance|Sci-Fi",2000,3.875
+"3615",0.663288213589484,13,3615,"Dinosaur","Adventure|Animation|Children",2000,3.04533913674284
+"192225",0.657483733162455,13,192225,"Redwall The Movie","Animation|Children|Comedy|Fantasy",2000,3.5
+"122300",0.657281655836838,13,122300,"The Land Before Time VII: The Stone of Cold Fire","Adventure|Animation|Children|Fantasy",2000,2.56
+"130402",0.644056150842517,13,130402,"Cardcaptor Sakura: The Sealed Card","Adventure|Animation|Comedy|Fantasy|Romance",2000,3.07142857142857
+"191401",0.63574508159394,13,191401,"Buzz Lightyear of Star Command: The Adventure Begins","Adventure|Animation|Children|Comedy|Sci-Fi",2000,2.83333333333333
+"3974",0.619655842970372,13,3974,"Little Vampire, The","Adventure|Children",2000,2.44137931034483
+"3945",0.59946621198615,13,3945,"Digimon: The Movie","Adventure|Animation|Children",2000,1.99279835390946
+"3754",0.597639180609711,13,3754,"Adventures of Rocky and Bullwinkle, The","Adventure|Animation|Children|Comedy|Fantasy",2000,2.20464672183323
+"4057",0.570703437858239,13,4057,"Kids World","Adventure|Children|Comedy",2000,2.43333333333333
+"115935",0.521052830787955,13,115935,"Tom Sawyer","Adventure|Animation|Children",2000,0.5
+"162470",0.73712704629482,13,162470,"Cardcaptor Sakura: The Movie","Adventure|Animation|Fantasy",1999,3.375
+"3114",0.733319741091585,13,3114,"Toy Story 2","Adventure|Animation|Children|Comedy|Fantasy",1999,3.81146367199276
+"2761",0.712185924686267,13,2761,"Iron Giant, The","Adventure|Animation|Children|Drama|Sci-Fi",1999,3.86651445966514
+"115949",0.70763057559391,13,115949,"An American Tail: The Mystery of the Night Monster","Adventure|Animation|Children|Fantasy|Mystery|Sci-Fi",1999,3.21969696969697
+"2687",0.669454453069586,13,2687,"Tarzan","Adventure|Animation|Children|Drama",1999,3.48478393183201
+"72692",0.664121913483016,13,72692,"Mickey's Once Upon a Christmas","Animation|Comedy|Fantasy",1999,3.40860215053763
+"135264",0.632917979919412,13,135264,"Zenon: Girl of the 21st Century","Adventure|Children|Comedy",1999,3.40384615384615
+"137088",0.513834133075013,13,137088,"Treasure Island","Adventure|Children",1999,0.5
+"8157",0.722379315351908,13,8157,"Jin Roh: The Wolf Brigade (Jin-Rô)","Animation|Fantasy|Thriller",1998,3.68382352941176
+"27186",0.714251606568992,13,27186,"Kirikou and the Sorceress (Kirikou et la sorcière)","Adventure|Animation|Children|Fantasy",1998,3.63488372093023
+"115947",0.710207300368293,13,115947,"An American Tail: The Treasure of Manhattan Island","Adventure|Animation",1998,3.15
+"2355",0.687533664592448,13,2355,"Bug's Life, A","Adventure|Animation|Children|Comedy",1998,3.56915580080993
+"115309",0.683039953337364,13,115309,"Swan Princess: The Mystery of the Enchanted Treasure, The","Animation|Children|Fantasy|Mystery",1998,3.0625
+"2294",0.671987861638903,13,2294,"Antz","Adventure|Animation|Children|Comedy|Fantasy",1998,3.23630794550608
+"166972",0.666055056642122,13,166972,"Twilight of the Dark Master","Animation|Fantasy|Sci-Fi",1998,2.25
+"119782",0.662727735375466,13,119782,"FernGully 2: The Magical Rescue","Adventure|Animation|Children|Fantasy",1998,2.68
+"1920",0.658244806150339,13,1920,"Small Soldiers","Animation|Children|Fantasy|War",1998,2.82278642510845
+"1907",0.643527320332113,13,1907,"Mulan","Adventure|Animation|Children|Comedy|Drama|Musical|Romance",1998,3.73147564598902
+"148767",0.642661364714132,13,148767,"A Kid in Aladdin's Palace","Adventure|Children",1998,2.75
+"3054",0.637599710972192,13,3054,"Pokémon: The First Movie","Adventure|Animation|Children|Fantasy|Sci-Fi",1998,2.21044499381953
+"1881",0.634941148358367,13,1881,"Quest for Camelot","Adventure|Animation|Children|Fantasy|Musical",1998,2.88427947598253
+"157767",0.634735110078164,13,157767,"Slayers Gorgeous","Adventure|Animation|Comedy|Fantasy",1998,2.5
+"1806",0.591318492415409,13,1806,"Paulie","Adventure|Children|Comedy",1998,2.84344422700587
+"1826",0.544676719370586,13,1826,"Barney's Great Adventure","Adventure|Children",1998,1.19521410579345
+"154908",0.756685388376545,13,154908,"Mermaid","Animation|Fantasy",1997,3.90625
+"157691",0.719687069697742,13,157691,"Tenchi the Movie 2: The Daughter of Darkness","Animation|Fantasy|Sci-Fi",1997,3.21428571428571
+"208693",0.710511202015499,13,208693,"Pippi Longstocking","Adventure|Animation|Children|Comedy",1997,4.5
+"161504",0.704483236867927,13,161504,"Wyrd Sisters","Animation|Fantasy",1997,3
+"191257",0.689270269756384,13,191257,"Treasure of the Hidden Planet","Adventure|Animation|Children|Sci-Fi",1997,3.25
+"115943",0.684189740583653,13,115943,"The Land Before Time V: The Mysterious Island","Adventure|Animation|Children",1997,3.41935483870968
+"189591",0.681244651492851,13,189591,"Jungle Emperor Leo","Adventure|Animation|Children|Comedy",1997,4
+"2189",0.674599694232144,13,2189,"I Married A Strange Person!","Animation|Comedy|Fantasy|Sci-Fi",1997,3.4478021978022
+"161502",0.668776693972412,13,161502,"Soul Music","Animation|Comedy|Fantasy",1997,3.5
+"200418",0.668347953244348,13,200418,"Detective Conan: Skyscraper on a Timer","Adventure|Animation|Comedy|Mystery",1997,3.125
+"135262",0.664355680047807,13,135262,"The Paper Brigade","Adventure|Children|Comedy",1997,4
+"115075",0.655326407112851,13,115075,"Swan Princess: Escape from Castle Mountain, The","Animation|Children|Fantasy|Romance",1997,3.41666666666667
+"174455",0.654094666340988,13,174455,"Poor Sasha","Adventure|Children|Comedy",1997,3.8
+"1582",0.647564124426791,13,1582,"Wild America","Adventure|Children",1997,3.03769401330377
+"1688",0.640440234539485,13,1688,"Anastasia","Adventure|Animation|Children|Drama|Musical",1997,3.47083512699096
+"157765",0.633777522669777,13,157765,"Slayers Great","Adventure|Animation|Comedy|Fantasy",1997,2.5
+"1566",0.632440415256877,13,1566,"Hercules","Adventure|Animation|Children|Comedy|Musical",1997,3.4190598656951
+"1538",0.610874661063377,13,1538,"Second Jungle Book: Mowgli & Baloo, The","Adventure|Children",1997,2.42105263157895
+"157841",0.557780958674195,13,157841,"Gestalt","Adventure|Animation|Comedy|Fantasy",1997,1.16666666666667
+"177027",0.74049447189515,13,177027,"Amanda","Adventure|Children",1996,4.5
+"720",0.703016377029565,13,720,"Wallace & Gromit: The Best of Aardman Animation","Adventure|Animation|Comedy",1996,4.1033812670035
+"986",0.678093732912235,13,986,"Fly Away Home","Adventure|Children",1996,3.51655251141552
+"661",0.671198235488967,13,661,"James and the Giant Peach","Adventure|Animation|Children|Fantasy|Musical",1996,3.30327868852459
+"115941",0.669637343529403,13,115941,"The Land Before Time IV: Journey Through the Mists","Adventure|Animation|Children",1996,3.18181818181818
+"157757",0.661319935261391,13,157757,"Slayers Return","Adventure|Animation|Comedy|Fantasy",1996,3
+"808",0.654701399149081,13,808,"Alaska","Adventure|Children",1996,3.20279255319149
+"673",0.652813977677528,13,673,"Space Jam","Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi",1996,2.76090408144205
+"828",0.65123972239291,13,828,"Adventures of Pinocchio, The","Adventure|Children",1996,3.11841155234657
+"161794",0.648208280033997,13,161794,"VeggieTales: Dave and the Giant Pickle","Adventure|Animation|Children|Comedy",1996,3.44444444444444
+"609",0.646693398275078,13,609,"Homeward Bound II: Lost in San Francisco","Adventure|Children",1996,3.00863185153215
+"7355",0.644411336590007,13,7355,"Mr. Toad's Wild Ride (a.k.a. The Wind in the Willows)","Adventure|Animation|Comedy",1996,3.26751592356688
+"711",0.624734057132081,13,711,"Flipper","Adventure|Children",1996,2.62619406737054
+"1367",0.614988958928741,13,1367,"101 Dalmatians","Adventure|Children|Comedy",1996,3.03240793201133
+"631",0.604632814410901,13,631,"All Dogs Go to Heaven 2","Adventure|Animation|Children|Fantasy|Musical|Romance",1996,2.72391304347826
+"1405",0.602949321236834,13,1405,"Beavis and Butt-Head Do America","Adventure|Animation|Comedy|Crime",1996,2.96199595575116
+"107",0.596994734333585,13,107,"Muppet Treasure Island","Adventure|Children|Comedy|Musical",1996,3.2168744804655
+"1",0.785626947631115,13,1,"Toy Story","Adventure|Animation|Children|Comedy|Fantasy",1995,3.89370779458724
+"32352",0.686335759224742,13,32352,"Thief and the Cobbler, The (a.k.a. Arabian Knight)","Adventure|Animation|Comedy|Fantasy",1995,3.5
+"13",0.672038270288604,13,13,"Balto","Adventure|Animation|Children",1995,3.333527696793
+"124919",0.664682646203529,13,124919,"The Wind in the Willows","Adventure|Animation|Children|Comedy",1995,3.76470588235294
+"158",0.660835226404931,13,158,"Casper","Adventure|Children",1995,2.92147906902852
+"238",0.650878548576538,13,238,"Far From Home: The Adventures of Yellow Dog","Adventure|Children",1995,3.16579634464752
+"8",0.650170292820443,13,8,"Tom and Huck","Adventure|Children",1995,3.11458333333333
+"754",0.640483008909566,13,754,"Gold Diggers: The Secret of Bear Mountain","Adventure|Children",1995,2.97150997150997
+"146",0.636339428125611,13,146,"Amazing Panda Adventure, The","Adventure|Children",1995,2.90290381125227
+"157769",0.633398884902718,13,157769,"Slayers: The Motion Picture","Adventure|Animation|Comedy|Fantasy",1995,2.5
+"205697",0.607543365161689,13,205697,"The Nutty Boy: A Film","Adventure|Children|Comedy",1995,3
+"122764",0.60243713628654,13,122764,"Napoleon","Adventure|Children",1995,2.1
+"364",0.720451409235303,13,364,"Lion King, The","Adventure|Animation|Children|Drama|Musical|IMAX",1994,3.81713650719382
+"2876",0.64007208061897,13,2876,"Thumbelina","Animation|Children|Fantasy",1994,2.76019417475728
+"362",0.635818979124593,13,362,"Jungle Book, The","Adventure|Children|Romance",1994,3.37794937794938
+"484",0.631024185693339,13,484,"Lassie","Adventure|Children",1994,2.80346820809249
+"91353",0.628583927432264,13,91353,"Asterix in America (a.k.a Asterix Conquers America) (Astérix et les Indiens)","Adventure|Animation|Children|Comedy",1994,3.15277777777778
+"5362",0.616336668109386,13,5362,"White Fang 2: Myth of the White Wolf","Adventure|Children",1994,2.50675675675676
+"6625",0.588331641398442,13,6625,"Camp Nowhere","Adventure|Children|Comedy",1994,2.82304526748971
+"641",0.568738735565373,13,641,"Little Indian, Big City (Un indien dans la ville)","Adventure|Children|Comedy",1994,2.52040816326531
+"177723",0.716542755972626,13,177723,"Jonny's Golden Quest","Adventure|Animation|Children|Mystery",1993,3.75
+"392",0.704180972931025,13,392,"Secret Adventures of Tom Thumb, The","Adventure|Animation",1993,3.3498023715415
+"551",0.694262189361442,13,551,"Nightmare Before Christmas, The","Animation|Children|Fantasy|Musical",1993,3.73826344576117
+"113066",0.66772748208134,13,113066,"Food (Jídlo)","Animation|Comedy|Fantasy",1993,3.55
+"3400",0.655617376013394,13,3400,"We're Back! A Dinosaur's Story","Adventure|Animation|Children|Fantasy",1993,2.74277456647399
+"32153",0.655328121207634,13,32153,"Once Upon a Forest","Adventure|Animation|Children|Fantasy",1993,2.7
+"168702",0.653654810715287,13,168702,"The Lion Child","Adventure|Children",1993,3
+"66317",0.735636897132179,13,66317,"Comet in Moominland","Adventure|Animation|Fantasy",1992,3.53723404255319
+"83535",0.711433395990507,13,83535,"Princess and the Goblin, The","Animation|Fantasy",1992,3.24137931034483
+"588",0.70214410614287,13,588,"Aladdin","Adventure|Animation|Children|Comedy|Musical",1992,3.69875268023886
+"26776",0.687689663309438,13,26776,"Porco Rosso (Crimson Pig) (Kurenai no buta)","Adventure|Animation|Comedy|Fantasy|Romance",1992,3.92819054390331
+"157773",0.685823421080693,13,157773,"the Weathering Continent","Animation|Fantasy",1992,2.75
+"191419",0.685160400045721,13,191419,"Tottoi","Adventure|Animation|Children",1992,3.5
+"158701",0.679380210627845,13,158701,"The Legend of the North Wind","Adventure|Animation|Fantasy",1992,2.5
+"6173",0.677361399602233,13,6173,"Into the West","Adventure|Children",1992,3.595
+"2800",0.651308620349851,13,2800,"Little Nemo: Adventures in Slumberland","Adventure|Animation|Children|Drama|Fantasy",1992,3.14
+"99642",0.649996581987445,13,99642,"Tiny Toon Adventures: How I Spent My Vacation","Adventure|Animation|Comedy",1992,3.3125
+"114240",0.648718484040444,13,114240,"Aladdin","Adventure|Animation|Children|Comedy|Fantasy",1992,3.14285714285714
+"152326",0.637685227884682,13,152326,"Freddie as F.R.O.7.","Adventure|Animation|Children|Fantasy",1992,2.33333333333333
+"121097",0.609440213870568,13,121097,"To Grandmother's House We Go","Adventure|Children|Comedy",1992,3.11538461538462
+"7228",0.597090538029862,13,7228,"Cool World","Animation|Comedy|Fantasy",1992,2.42266666666667
+"595",0.693500794987648,13,595,"Beauty and the Beast","Animation|Children|Fantasy|Musical|Romance|IMAX",1991,3.68091985555524
+"66915",0.616678215423649,13,66915,"Rock-A-Doodle","Adventure|Animation|Children|Musical",1991,3
+"2142",0.59149932488852,13,2142,"American Tail: Fievel Goes West, An","Adventure|Animation|Children|Musical|Western",1991,3.03051858650757
+"208253",0.705542465156795,13,208253,"A Wind Named Amnesia","Adventure|Animation|Drama",1990,4
+"153106",0.701244549699961,13,153106,"The Fool of the World and the Flying Ship","Adventure|Animation|Children|Fantasy",1990,3.5
+"119305",0.692338360616245,13,119305,"The Nutcracker Prince","Adventure|Animation|Children|Fantasy",1990,3.33333333333333
+"2089",0.667180710072804,13,2089,"Rescuers Down Under, The","Adventure|Animation|Children",1990,3.30904723779023
+"206921",0.661116539230869,13,206921,"Garfield's Feline Fantasies","Adventure|Animation|Comedy",1990,3.5
+"33463",0.659737418346032,13,33463,"DuckTales: The Movie - Treasure of the Lost Lamp","Adventure|Animation|Children|Comedy|Fantasy",1990,3.38757396449704
+"26690",0.659224157242023,13,26690,"Shipwrecked (a.k.a. Haakon Haakonsen)","Adventure|Children",1990,3.22727272727273
+"204662",0.651264687379017,13,204662,"Gude Crest: The Emblem of Gude","Adventure|Animation|Fantasy",1990,2
+"169528",0.718962370121276,13,169528,"Saint Seiya: Warriors of the Final Holy Battle","Action|Animation|Fantasy",1989,3.375
+"26662",0.710991589524525,13,26662,"Kiki's Delivery Service (Majo no takkyûbin)","Adventure|Animation|Children|Drama|Fantasy",1989,4.01141906873614
+"1223",0.698173293950193,13,1223,"Grand Day Out with Wallace and Gromit, A","Adventure|Animation|Children|Comedy|Sci-Fi",1989,4.04827810266407
+"186197",0.689788452596205,13,186197,"The BFG","Animation|Children|Fantasy",1989,3.58333333333333
+"171775",0.687830135278184,13,171775,"Club of the Laid Off","Animation|Fantasy",1989,2.83333333333333
+"69689",0.670495997984565,13,69689,"Resan Till Melonia","Adventure|Animation|Children|Fantasy",1989,3
+"72037",0.660606766656343,13,72037,"Darkness/Light/Darkness (Tma/Svetlo/Tma)","Animation|Comedy|Fantasy",1989,3.51219512195122
+"207622",0.656675155526186,13,207622,"A Princesa Xuxa e os Trapalhões","Adventure|Children|Comedy|Sci-Fi",1989,3.5
+"91351",0.642459981993452,13,91351,"Asterix and the Big Fight (Astérix et le coup du menhir)","Adventure|Animation|Children|Comedy",1989,3.47727272727273
+"126749",0.641818938770701,13,126749,"Babar The Movie","Adventure|Animation|Children|Fantasy",1989,2.46875
+"2039",0.61909548653626,13,2039,"Cheetah","Adventure|Children",1989,2.67796610169492
+"2123",0.603638403778775,13,2123,"All Dogs Go to Heaven","Animation|Children|Comedy|Drama|Fantasy",1989,3.04427279577995
+"26631",0.739561906287886,13,26631,"Alice (Neco z Alenky)","Animation|Fantasy|Mystery",1988,3.674
+"3687",0.717984024339054,13,3687,"Light Years (Gandahar)","Adventure|Animation|Fantasy|Sci-Fi",1988,3.31034482758621
+"206919",0.716201364414096,13,206919,"Garfield: His 9 Lives","Adventure|Animation|Comedy",1988,4.5
+"169524",0.713731500715098,13,169524,"Saint Seiya: The Heated Battle of the Gods","Action|Animation|Fantasy",1988,3.3
+"5971",0.707191269380901,13,5971,"My Neighbor Totoro (Tonari no Totoro)","Animation|Children|Drama|Fantasy",1988,4.1524625267666
+"169526",0.703371507451565,13,169526,"Saint Seiya: Legend of Crimson Youth","Action|Animation|Fantasy",1988,3.125
+"138835",0.691528086230174,13,138835,"Return to Treasure Island","Adventure|Animation|Comedy",1988,4.07894736842105
+"4519",0.689468069786435,13,4519,"Land Before Time, The","Adventure|Animation|Children|Fantasy",1988,3.34817398440706
+"2987",0.686903396275989,13,2987,"Who Framed Roger Rabbit?","Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery",1988,3.54169140143386
+"179761",0.685095496918551,13,179761,"Treasure Island","Adventure|Animation|Comedy",1988,3.96296296296296
+"709",0.606386518436322,13,709,"Oliver & Company","Adventure|Animation|Children|Comedy|Musical",1988,3.30772058823529
+"115611",0.562000975963061,13,115611,"Felix the Cat: The Movie","Adventure|Animation|Children|Fantasy|Musical|Sci-Fi",1988,1.44444444444444
+"4477",0.559521501963334,13,4477,"Big Top Pee-Wee","Adventure|Children|Comedy",1988,2.441875
+"189233",0.6987775936203,13,189233,"Devilman - Volume 1: The Birth","Action|Animation|Fantasy|Horror",1987,3.4
+"169522",0.695520603202182,13,169522,"Saint Seiya: Evil Goddess Eris","Action|Animation|Fantasy",1987,3
+"157821",0.676128810635627,13,157821,"Legend of Lemnear","Adventure|Animation|Fantasy|Sci-Fi",1987,2.5
+"168684",0.674876185219672,13,168684,"Rabbit Heart","Adventure|Children",1987,3.5
+"171837",0.674254754267177,13,171837,"Twilight Q","Animation|Crime|Fantasy|Mystery|Sci-Fi",1987,3.25
+"45038",0.66554812284354,13,45038,"Pinocchio and the Emperor of the Night","Animation|Children|Fantasy",1987,3.25
+"8426",0.646614634600981,13,8426,"Robot Carnival (Roboto kânibauru)","Animation|Comedy|Drama|Fantasy|Sci-Fi",1987,3.41428571428571
+"179203",0.639344338407067,13,179203,"The Puppetoon Movie","Animation|Children|Fantasy",1987,2.75
+"136347",0.631697135757346,13,136347,"Scooby-Doo Meets the Boo Brothers","Adventure|Animation|Children|Comedy",1987,3.30882352941176
+"8444",0.630617309233349,13,8444,"Chipmunk Adventure, The","Adventure|Animation|Children|Comedy|Fantasy|Musical",1987,3.27173913043478
+"3673",0.600608882838182,13,3673,"Benji the Hunted","Adventure|Children",1987,2.36607142857143
+"4087",0.570904016394383,13,4087,"Big Shots","Adventure|Children|Comedy",1987,2.70535714285714
+"2449",0.512887458645229,13,2449,"Garbage Pail Kids Movie, The","Adventure|Children|Comedy",1987,1.66339869281046
+"52938",0.681595934389891,13,52938,"Adventures of Mark Twain, The","Adventure|Animation|Children",1986,3.578125
+"4006",0.671925025561348,13,4006,"Transformers: The Movie","Adventure|Animation|Children|Sci-Fi",1986,3.24704536789935
+"55681",0.655698088989359,13,55681,"Valhalla","Adventure|Animation|Children|Fantasy",1986,2.77272727272727
+"196157",0.648797995556156,13,196157,"Urusei Yatsura 4: Lum the Forever","Animation|Comedy|Fantasy|Sci-Fi",1986,3
+"26565",0.641877780367315,13,26565,"Asterix in Britain (Astérix chez les Bretons)","Adventure|Animation|Children|Comedy",1986,3.51968503937008
+"183649",0.635003128957012,13,183649,"Momo","Children|Comedy|Fantasy|Mystery|Sci-Fi",1986,2.83333333333333
+"2141",0.632920579811555,13,2141,"American Tail, An","Adventure|Animation|Children|Comedy",1986,3.36958898119808
+"166401",0.580727087290346,13,166401,"The Adventures of the American Rabbit","Animation|Children|Fantasy|Sci-Fi",1986,1.5
+"109733",0.576954204306135,13,109733,"Captain EO","Adventure|Children|Comedy|Musical|Sci-Fi",1986,2.58490566037736
+"128203",0.52988549676599,13,128203,"Lightning, the White Stallion","Adventure|Children",1986,1
+"140533",0.730257165667753,13,140533,"Gwen, the Book of Sand","Adventure|Animation|Fantasy|Sci-Fi",1985,3.5
+"185879",0.722251866481103,13,185879,"Time Out","Animation|Fantasy",1985,3.5
+"154822",0.680562438851618,13,154822,"A Journey Through Fairyland","Animation|Children|Fantasy",1985,3.5
+"2033",0.673988350420102,13,2033,"Black Cauldron, The","Adventure|Animation|Children|Fantasy",1985,3.19720597790773
+"2077",0.662799592000744,13,2077,"Journey of Natty Gann, The","Adventure|Children",1985,3.49329205366357
+"162394",0.662125596233101,13,162394,"Starchaser: The Legend of Orin","Adventure|Animation|Children|Sci-Fi",1985,3
+"196155",0.64784040814777,13,196155,"Urusei Yatsura 3: Remember My Love","Animation|Comedy|Fantasy|Sci-Fi",1985,3
+"26529",0.635311210655216,13,26529,"Asterix vs. Caesar (Astérix et la surprise de César)","Adventure|Animation|Children|Comedy",1985,3.41875
+"5538",0.61023959768304,13,5538,"Care Bears Movie, The","Animation|Children|Fantasy",1985,2.41042780748663
+"7099",0.737982771698568,13,7099,"Nausicaä of the Valley of the Wind (Kaze no tani no Naushika)","Adventure|Animation|Drama|Fantasy|Sci-Fi",1984,4.0877358490566
+"179967",0.731068693937897,13,179967,"Jumping","Animation|Fantasy",1984,3.66666666666667
+"196541",0.71552169151937,13,196541,"Makar - Pathfinder","Adventure|Children",1984,4.25
+"175397",0.713328588154266,13,175397,"In the blue sea, in the white foam.","Animation|Children|Fantasy",1984,4.08490566037736
+"200048",0.689829908708685,13,200048,"Gorshochek Kashi","Adventure|Animation",1984,3
+"190699",0.678264533299069,13,190699,"Katy Caterpillar","Adventure|Animation|Children",1984,3.5
+"107061",0.650803701796634,13,107061,"Urusei Yatsura Movie 2: Beautiful Dreamer (Urusei Yatsura 2: Byûtifuru dorîmâ)","Animation|Comedy|Fantasy",1984,3.4
+"173533",0.607422094453865,13,173533,"Doctor Aybolit","Adventure|Animation|Comedy",1984,2.67857142857143
+"124575",0.693666811589402,13,124575,"The Wind in the Willows","Adventure|Animation|Children|Fantasy",1983,3.48333333333333
+"8148",0.69265652882825,13,8148,"Twice Upon a Time","Animation|Fantasy",1983,3.075
+"5041",0.692286218812459,13,5041,"Fire and Ice","Animation|Fantasy",1983,3.12087912087912
+"172577",0.681363270778423,13,172577,"Last Year's Snow Was Falling","Animation|Children|Comedy|Fantasy",1983,4.2
+"8224",0.662395909638905,13,8224,"Dexter the Dragon & Bumble the Bear (a.k.a. Dragon That Wasn't (Or Was He?), The) (Als je begrijpt wat ik bedoel)","Animation|Children|Fantasy",1983,3.30555555555556
+"173351",0.657621860932215,13,173351,"Wow! A Talking Fish!","Animation|Children|Comedy|Fantasy",1983,3.7890625
+"26483",0.650944060154906,13,26483,"Rock & Rule","Animation|Fantasy|Musical|Sci-Fi",1983,3.11458333333333
+"6169",0.633809652285745,13,6169,"Black Stallion Returns, The","Adventure|Children",1983,3
+"175435",0.740762725956003,13,175435,"The Magic Ring","Animation|Fantasy",1982,3.88095238095238
+"6093",0.681783336106048,13,6093,"Last Unicorn, The","Animation|Children|Fantasy",1982,3.65851602023609
+"49817",0.680691565687437,13,49817,"Plague Dogs, The","Adventure|Animation|Drama",1982,3.76086956521739
+"5038",0.672677451762457,13,5038,"Flight of Dragons, The","Adventure|Animation|Children|Drama|Fantasy",1982,3.64955357142857
+"72035",0.668674051855782,13,72035,"Dimensions of Dialogue (Moznosti dialogu)","Animation|Comedy|Fantasy",1982,3.76153846153846
+"2139",0.661797483197043,13,2139,"Secret of NIMH, The","Adventure|Animation|Children|Drama",1982,3.72747893713545
+"114721",0.637204181594875,13,114721,"Bugs Bunny's 3rd Movie: 1001 Rabbit Tales","Adventure|Animation|Children|Comedy",1982,3.5
+"147190",0.617169984762422,13,147190,"Treasure Island","Adventure|Children",1982,2.57142857142857
+"116833",0.742200512214624,13,116833,"Son of the White Mare","Adventure|Animation|Fantasy",1981,3.77586206896552
+"183743",0.723307865279043,13,183743,"Khalif The Stork","Animation|Fantasy",1981,3.58333333333333
+"156041",0.69148141601428,13,156041,"The Adventures of Tom Sawyer and Huckleberry Finn","Adventure|Children",1981,3.88888888888889
+"188283",0.69055747018256,13,188283,"The Dog In Boots","Adventure|Animation|Children",1981,3.77777777777778
+"207556",0.67963714144428,13,207556,"Krakonoš a lyžníci","Adventure|Children|Comedy",1981,4.5
+"116837",0.658273895114125,13,116837,"The Little Fox","Adventure|Animation|Children",1981,3.23333333333333
+"193357",0.654933758904141,13,193357,"Gnomes","Animation|Children|Fantasy",1981,3.1
+"207614",0.62263714144428,13,207614,"Os Saltimbancos Trapalhões","Adventure|Children|Comedy",1981,3.5
+"151806",0.609258189360026,13,151806,"Mafalda - La Pelicula","Animation|Children|Comedy|Fantasy",1981,3
+"109364",0.69135401533984,13,109364,"King and the Mockingbird, The (Le roi et l'oiseau)","Animation|Children|Fantasy",1980,3.7906976744186
+"154810",0.628890293037358,13,154810,"The Tale of John and Marie","Adventure|Animation|Children|Fantasy",1980,2.375
+"8883",0.570182754307349,13,8883,"Last Flight of Noah's Ark, The","Adventure|Children|Comedy",1980,2.73529411764706
+"2050",0.553516097085885,13,2050,"Herbie Goes Bananas","Adventure|Children|Comedy",1980,2.50157728706625
+"65796",0.726471337720872,13,65796,"Galaxy Express 999 (Ginga tetsudô Three-Nine)","Adventure|Animation|Fantasy|Sci-Fi",1979,3.56122448979592
+"188371",0.689836900928365,13,188371,"Cinderella","Animation|Children|Fantasy",1979,3.75
+"149574",0.666050693262176,13,149574,"Rudolph and Frosty's Christmas in July","Animation|Children|Fantasy",1979,3.35
+"186329",0.631516892049344,13,186329,"The Wizard of Speed and Time","Animation|Comedy|Fantasy",1979,3.125
+"171839",0.619188865582211,13,171839,"Breakfast on the Grass","Adventure|Children|Comedy",1979,3.5
+"3396",0.60960106511226,13,3396,"Muppet Movie, The","Adventure|Children|Comedy|Musical",1979,3.68260595556956
+"154400",0.579865971039954,13,154400,"Prince and the Evening Star","Adventure|Children|Romance",1979,2.65
+"173869",0.71478220409975,13,173869,"Metamorphoses","Animation|Fantasy",1978,3.5
+"195205",0.687048754622398,13,195205,"The Light Princess","Animation|Fantasy",1978,3
+"2116",0.672888034044187,13,2116,"Lord of the Rings, The","Adventure|Animation|Children|Fantasy",1978,3.20733684637211
+"2138",0.672643982764398,13,2138,"Watership Down","Adventure|Animation|Children|Drama|Fantasy",1978,3.69716260458349
+"193331",0.630048754622399,13,193331,"Последняя невеста Змея Горыныча","Animation|Fantasy",1978,2
+"140569",0.59950581770773,13,140569,"The Further Adventures of the Wilderness Family","Adventure|Children",1978,2.33333333333333
+"31150",0.694306924971254,13,31150,"Wizards","Animation|Fantasy|Sci-Fi|War",1977,3.24489795918367
+"39529",0.658670446754173,13,39529,"Race for Your Life, Charlie Brown","Adventure|Animation|Children",1977,3.37
+"188105",0.653858528325123,13,188105,"The Last Petal","Adventure|Animation",1977,2.5
+"174529",0.640256719778403,13,174529,"The Easter Bunny Is Comin' to Town","Animation|Children|Fantasy|Sci-Fi",1977,2.7
+"111789",0.623830581286454,13,111789,"Gulliver's Travels","Adventure|Animation",1977,2
+"7304",0.619584928380845,13,7304,"Allegro non troppo","Animation|Comedy|Fantasy|Musical",1977,3.60597826086957
+"2090",0.610987253136603,13,2090,"Rescuers, The","Adventure|Animation|Children|Crime|Drama",1977,3.46155078500481
+"1030",0.606316331943557,13,1030,"Pete's Dragon","Adventure|Animation|Children|Musical",1977,3.09734799482536
+"2037",0.597110462926451,13,2037,"Candleshoe","Adventure|Children|Comedy",1977,3.32843137254902
+"2051",0.555284184322667,13,2051,"Herbie Goes to Monte Carlo","Adventure|Children|Comedy",1977,2.57687723480334
+"148850",0.708503029924868,13,148850,"Rudolph's Shiny New Year","Animation|Fantasy",1976,3.42307692307692
+"26340",0.681605878486745,13,26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix)","Action|Adventure|Animation|Children|Comedy|Fantasy",1976,3.806
+"198085",0.665877542774927,13,198085,"Train in the Snow","Adventure|Children",1976,3.5
+"207530",0.646349204402348,13,207530,"Boys Will Be Boys","Adventure|Children|Comedy",1976,4
+"188287",0.601460702698788,13,188287,"The Brave Tin Soldier","Animation|Children|Fantasy",1976,2.25
+"204442",0.533710315513459,13,204442,"Puss 'N Boots Travels Around the World","Adventure|Animation|Comedy",1976,1.5
+"177069",0.723946734323634,13,177069,"The Humpbacked Horse","Animation|Fantasy",1975,3.7
+"164449",0.682513004049101,13,164449,"Teens in the Universe","Adventure|Children|Comedy|Sci-Fi",1975,4.20833333333333
+"193337",0.664151686841684,13,193337,"Escape from the Palace","Adventure|Children",1975,3.5
+"164198",0.642101571504221,13,164198,"Really Rosie","Animation|Children|Fantasy",1975,3
+"204296",0.575504446107281,13,204296,"Shame of the Jungle","Adventure|Animation|Comedy",1975,2.25
+"160549",0.705179266912858,13,160549,"Swallows and Amazons","Adventure|Children",1974,4.25
+"188119",0.683603398252386,13,188119,"Molodilnye yabloki","Animation|Fantasy",1974,3
+"196545",0.682453052278598,13,196545,"The Bronze Bird","Adventure|Children",1974,3.83333333333333
+"101670",0.66532250801888,13,101670,"'Twas the Night Before Christmas","Animation|Children|Fantasy",1974,3.4375
+"155283",0.662911905801747,13,155283,"Jack and the Beanstalk","Adventure|Animation|Fantasy",1974,2.5
+"148087",0.654818676030164,13,148087,"The Life and Times of Grizzly Adams","Adventure|Children|Western",1974,4.25
+"3672",0.618596723098462,13,3672,"Benji","Adventure|Children",1974,2.8879746835443
+"153869",0.606988359446695,13,153869,"Thunderclump","Adventure|Animation|Children",1974,2.4375
+"197471",0.500177085141131,13,197471,"Journey Back to Oz","Animation|Children|Fantasy",1974,0.5
+"153570",0.730610314559924,13,153570,"Johnny Corncob","Adventure|Animation|Fantasy",1973,3.6875
+"156037",0.703838404243148,13,156037,"Hopelessly Lost","Adventure|Children",1973,4.25
+"175387",0.69284094877247,13,175387,"On the Trail of the Bremen Town Musicians","Adventure|Animation|Children",1973,3.95454545454545
+"173641",0.652228914347563,13,173641,"The Cutlass","Adventure|Children",1973,3.33333333333333
+"141505",0.645765730392401,13,141505,"Moscow-Cassiopeia","Adventure|Children|Comedy|Sci-Fi",1973,3.60416666666667
+"3034",0.621896822090489,13,3034,"Robin Hood","Adventure|Animation|Children|Comedy|Musical",1973,3.68919413919414
+"60110",0.589663027913716,13,60110,"Tom Sawyer","Adventure|Children|Musical",1973,3.09090909090909
+"187423",0.681817699858263,13,187423,"Our Lady of the Sphere","Animation|Fantasy",1972,3
+"134152",0.660260293257412,13,134152,"Treasure Island","Adventure|Children",1972,3.5
+"120488",0.645500977577855,13,120488,"The Call of the Wild","Adventure|Children",1972,3.25
+"157997",0.630970392986295,13,157997,"Tintin and the Lake of Sharks","Adventure|Animation|Children|Mystery",1972,2.625
+"207079",0.557018854768802,13,207079,"The Prince and the Pauper","Adventure|Children|Comedy",1972,2.5
+"196557",0.657354826207878,13,196557,"Adventures of Mowgli: Return to Mankind","Adventure|Animation|Children",1971,3.35714285714286
+"1031",0.60282959931009,13,1031,"Bedknobs and Broomsticks","Adventure|Children|Musical",1971,3.34615384615385
+"8015",0.682504581044522,13,8015,"Phantom Tollbooth, The","Adventure|Animation|Children|Fantasy",1970,3.61422413793103
+"172585",0.682415718713299,13,172585,"Karlson Returns","Adventure|Animation|Children",1970,3.82352941176471
+"196561",0.680825810228063,13,196561,"Adventures of Mowgli: The Fight","Adventure|Animation|Children",1970,3.78571428571429
+"136588",0.66677284344045,13,136588,"Santa Claus is Comin' to Town","Animation|Children|Fantasy",1970,3.51086956521739
+"197465",0.648494865546831,13,197465,"Cleopatra","Animation|Comedy|Fantasy|Sci-Fi",1970,3.25
+"31195",0.641587731316983,13,31195,"Pippi in the South Seas (Pippi Långstrump på de sju haven)","Adventure|Children",1970,3.22222222222222
+"158631",0.629715642017988,13,158631,"Pero Kvrzica's Comradeship","Adventure|Children",1970,3
+"173431",0.593988326396618,13,173431,"The Wild Country","Adventure|Children|Western",1970,3.25
+"120925",0.513740141185509,13,120925,"Shinbone Alley","Animation|Comedy|Fantasy|Musical|Romance",1970,2
+"196559",0.663582508533962,13,196559,"Adventures of Mowgli: Akela's Last Hunt","Adventure|Animation|Children",1969,3.5
+"175765",0.652853787011731,13,175765,"Pippi Longstocking","Adventure|Children",1969,3.4
+"7774",0.64624771275739,13,7774,"My Side of the Mountain","Adventure|Children",1969,3.42391304347826
+"92348",0.606325386148357,13,92348,"Puss in Boots (Nagagutsu o haita neko)","Adventure|Animation|Children|Comedy|Fantasy|Romance",1969,3.11111111111111
+"193537",0.72764736299999,13,193537,"The Little Mermaid","Animation|Fantasy",1968,3.875
+"172825",0.688342100455348,13,172825,"Adventures of Mowgli: The Kidnapping","Adventure|Animation|Children",1968,3.96341463414634
+"206481",0.678239431061183,13,206481,"Ball of Yarn","Animation|Fantasy",1968,3
+"166183",0.673886105953074,13,166183,"Junior and Karlson","Adventure|Animation|Children",1968,3.70833333333333
+"26183",0.64766663663374,13,26183,"Asterix and Cleopatra (Astérix et Cléopâtre)","Action|Adventure|Animation|Children|Comedy",1968,3.63636363636364
+"2857",0.637538619691205,13,2857,"Yellow Submarine","Adventure|Animation|Comedy|Fantasy|Musical",1968,3.5836580613736
+"26160",0.634378857575885,13,26160,"Asterix and the Gauls (Astérix le Gaulois)","Action|Adventure|Animation|Children|Comedy",1967,3.42441860465116
+"3345",0.631420433021447,13,3345,"Charlie, the Lonesome Cougar","Adventure|Children",1967,3.25675675675676
+"157363",0.599716332128272,13,157363,"Aladdin and His Magic Lamp","Adventure|Children|Romance",1967,3.2
+"2135",0.577685707732398,13,2135,"Doctor Dolittle","Adventure|Children|Musical",1967,3.04295882053889
+"114461",0.692853998840112,13,114461,"Snails, The (Escargots, Les)","Animation|Fantasy",1966,3.32352941176471
+"52435",0.624505761660282,13,52435,"How the Grinch Stole Christmas!","Animation|Comedy|Fantasy|Musical",1966,3.7761038961039
+"140345",0.619050809979463,13,140345,"The Man Called Flintstone","Adventure|Animation|Children|Mystery|Romance",1966,3
+"172793",0.695935921698748,13,172793,"Vovka in the Kingdom of Far Far Away","Adventure|Animation|Children|Fantasy",1965,3.80172413793103
+"176661",0.625694255498705,13,176661,"What Taiga Was Silent About","Adventure|Children",1965,3
+"73854",0.648473207933989,13,73854,"Rudolph, the Red-Nosed Reindeer","Adventure|Animation|Children|Fantasy|Musical",1964,3.5839874411303
+"187979",0.620884673460839,13,187979,"Thumbelina","Adventure|Animation|Children|Romance",1964,3.375
+"122133",0.603438407946732,13,122133,"Hey There, It's Yogi Bear","Adventure|Animation|Children|Comedy|Romance",1964,3.5
+"200910",0.520858155501711,13,200910,"Tintin and the Blue Oranges","Adventure|Children|Comedy",1964,2
+"170797",0.653430624468113,13,170797,"Dr. Syn, Alias the Scarecrow","Adventure|Children",1963,3.5
+"2057",0.634064932340116,13,2057,"Incredible Journey, The","Adventure|Children",1963,3.35704125177809
+"1025",0.627856994630442,13,1025,"Sword in the Stone, The","Animation|Children|Fantasy|Musical",1963,3.55391229578676
+"126953",0.713291478037155,13,126953,"The Fabulous Baron Munchausen","Adventure|Animation|Fantasy",1962,3.57142857142857
+"3332",0.637617491414443,13,3332,"Legend of Lobo, The","Adventure|Children",1962,3.33333333333333
+"2056",0.636812745656788,13,2056,"In Search of the Castaways","Adventure|Children",1962,3.43373493975904
+"26093",0.590019230781742,13,26093,"Wonderful World of the Brothers Grimm, The","Adventure|Animation|Children|Comedy|Drama|Fantasy|Musical|Romance",1962,3.36666666666667
+"122240",0.575035307538762,13,122240,"Mister Magoo's Christmas Carol","Animation|Children|Comedy|Drama|Fantasy|Musical",1962,3.20833333333333
+"2085",0.657805509448156,13,2085,"101 Dalmatians (One Hundred and One Dalmatians)","Adventure|Animation|Children",1961,3.43679391128553
+"122982",0.602721028712812,13,122982,"Magic Boy","Adventure|Animation|Children",1961,2.58333333333333
+"1017",0.644204126574307,13,1017,"Swiss Family Robinson","Adventure|Children",1960,3.51362309438858
+"165757",0.642082167798509,13,165757,"Journey to the West","Animation|Fantasy",1960,2.5
+"6747",0.625507432037685,13,6747,"Adventures of Huckleberry Finn, The","Adventure|Children",1960,3.22018348623853
+"172935",0.707485996635025,13,172935,"Donald in Mathmagic Land","Animation|Fantasy",1959,3.67647058823529
+"172597",0.625964824890002,13,172597,"The Adventures of Buratino","Adventure|Animation|Children|Fantasy",1959,2.67857142857143
+"182845",0.648900442459088,13,182845,"The Tale of the White Serpent","Animation|Fantasy",1958,2.66666666666667
+"118944",0.597800851859051,13,118944,"A Chairy Tale","Animation|Comedy|Fantasy",1957,2.92857142857143
+"153648",0.581981183155844,13,153648,"The Snow Queen","Animation|Children|Drama|Fantasy",1957,2.69444444444444
+"140419",0.580601149630762,13,140419,"The Invisible Boy","Adventure|Children|Comedy|Sci-Fi",1957,2.75
+"86791",0.594388868145492,13,86791,"Invitation to the Dance","Animation|Fantasy|Musical",1956,2.875
+"176617",0.681003770891378,13,176617,"Zakoldovannyy Malchik","Animation|Fantasy",1955,3.28571428571429
+"206647",0.665790794752159,13,206647,"Hansel and Gretel","Animation|Fantasy",1955,3
+"205895",0.693333207343773,13,205895,"The Three Wishes","Animation|Fantasy",1954,3.5
+"205897",0.693333207343773,13,205897,"The Caliph Stork","Animation|Fantasy",1954,3.5
+"205889",0.664833207343773,13,205889,"Thumbelina","Animation|Fantasy",1954,3
+"187173",0.644042351265569,13,187173,"Adventure In The Hopfields","Adventure|Children",1954,3.5
+"206645",0.636333207343773,13,206645,"Snow White and Rose Red","Animation|Fantasy",1954,2.5
+"2087",0.622697438742704,13,2087,"Peter Pan","Animation|Children|Fantasy|Musical",1953,3.56567907708443
+"204346",0.681921468531418,13,204346,"The Curious Adventures of Mr Wonderbird","Animation|Fantasy",1952,3.33333333333333
+"172473",0.6640452694925,13,172473,"The Scarlet Flower","Animation|Fantasy",1952,3.03571428571429
+"188059",0.649732040901932,13,188059,"Kashtanka","Animation|Children|Fantasy",1952,3.5
+"173859",0.681659601700727,13,173859,"The Night Before Christmas","Animation|Fantasy",1951,3.36363636363636
+"1032",0.645993123667826,13,1032,"Alice in Wonderland","Adventure|Animation|Children|Fantasy|Musical",1951,3.62404852521408
+"6405",0.634559702804754,13,6405,"Treasure Island","Adventure|Children",1950,3.54324324324324
+"187323",0.622501559811786,13,187323,"The Scarlet Pumpernickel","Adventure|Animation|Comedy",1950,3.5
+"1022",0.604477894893185,13,1022,"Cinderella","Animation|Children|Fantasy|Musical|Romance",1950,3.55690929917734
+"161398",0.653409365784787,13,161398,"The Emperor's Nightingale","Animation|Children|Fantasy",1949,3.625
+"126006",0.591798150339995,13,126006,"Rudolph the Red-Nosed Reindeer","Animation|Children|Fantasy",1948,2.57692307692308
+"194855",0.590270206444881,13,194855,"First-Year Student","Adventure|Children|Comedy",1948,3.5
+"181925",0.682483787287498,13,181925,"Mickey and the Beanstalk","Adventure|Animation|Fantasy",1947,3.27777777777778
+"2099",0.601258081607543,13,2099,"Song of the South","Adventure|Animation|Children|Musical",1946,3.57355126300149
+"149894",0.492924064590092,13,149894,"Adventures of Rusty","Adventure|Children",1945,1
+"136489",0.672395522703279,13,136489,"Terror on the Midway","Animation|Fantasy",1942,3.35714285714286
+"165629",0.657754484574514,13,165629,"The Bulleteers","Action|Animation|Fantasy",1942,3.1
+"198131",0.576319570889789,13,198131,"The Prince and the Pauper","Adventure|Children",1942,2.5
+"91919",0.546500858419665,13,91919,"Mr. Bug Goes to Town","Animation|Children|Comedy|Fantasy|Musical",1941,2.95454545454545
+"187395",0.655180198558482,13,187395,"The Milky Way","Animation|Fantasy",1940,3.07142857142857
+"179265",0.644887845550369,13,179265,"Siberians","Adventure|Children",1940,3.75
+"1282",0.625896974467065,13,1282,"Fantasia","Animation|Children|Fantasy|Musical",1940,3.71745321399512
+"596",0.612506633918245,13,596,"Pinocchio","Animation|Children|Fantasy|Musical",1940,3.48257730340606
+"2899",0.613418529639763,13,2899,"Gulliver's Travels","Adventure|Animation|Children",1939,3.31875
+"154802",0.609887030828667,13,154802,"The Golden Key","Adventure|Animation|Fantasy",1939,2.16666666666667
+"199668",0.626357482097673,13,199668,"Brave Little Tailor","Animation|Children|Fantasy",1938,3.31818181818182
+"182297",0.605454511749967,13,182297,"Porky in Wackyland","Animation|Comedy|Fantasy",1938,3.36111111111111
+"594",0.61022607466404,13,594,"Snow White and the Seven Dwarfs","Animation|Children|Drama|Fantasy|Musical",1937,3.58230211817168
+"153640",0.601786558024714,13,153640,"The Tale of the Fox","Animation|Children|Comedy|Fantasy",1937,3.58333333333333
+"154524",0.517533242648326,13,154524,"The New Gulliver","Animation|Children|Fantasy",1935,1.5
+"145172",0.613841214239504,13,145172,"Gulliver Mickey","Animation|Children|Fantasy",1934,3.1875
+"197031",0.550960370064099,13,197031,"The Shanty Where Santy Claus Lives","Animation|Children|Comedy|Fantasy",1933,2.75
+"40033",0.642463868117136,13,40033,"Adventures of Prince Achmed, The (Abenteuer des Prinzen Achmed, Die)","Adventure|Animation|Fantasy|Romance",1926,3.74375
+"205873",0.607134257907247,13,205873,"Cinderella","Animation|Children|Fantasy",1922,3.25
+"201827",0.63323625887144,13,201827,"Dreams of the Rarebit Fiend: The Pet","Animation|Fantasy",1921,3
+"207423",0.520989767311466,13,207423,"The Centaurs","Animation|Fantasy|Romance",1921,2

@@ -1,0 +1,6 @@
+"","accuracy","macroPrecision","macroNPV","macroRecall","macroSpecificity"
+"accuracy",0,-2,3,-2,3
+"macroPrecision",2,0,5,0,5
+"macroNPV",-3,-5,0,-5,0
+"macroRecall",2,0,5,0,5
+"macroSpecificity",-3,-5,0,-5,0
