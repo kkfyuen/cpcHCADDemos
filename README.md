@@ -9,9 +9,9 @@ Official repository containing software demonstrations, computational workflows,
 The **CPC-HCAD** framework advances and extends **Cognitive Pairwise Comparisons (CPC)** into core machine learning operations. By integrating human preference elicitation directly into data preprocessing, feature selection, model evaluation, dimensionality reduction, and rule mining, CPC-HCAD empowers domain experts and decision-makers to guide machine learning workflows while maintaining mathematical consistency and interval-scale rigor.
 
 ---
-## Interactive Demonstration Modules
+## Web Demonstration Modules
 
-This repository provides live, interactive HTML modules demonstrating the application of CPC across key data science and machine learning paradigms:
+This repository provides web modules demonstrating the application of CPC across key data science and machine learning paradigms:
 
 ### 1. Data Cleaning & Feature Engineering (`s1dataTransformation.html`)
 * **Purpose:** Preprocesses raw metadata and user evaluation logs into structured analytical tables.
@@ -57,9 +57,9 @@ cpcHCADDemos/
 ---
 ## Getting Started
 
-### Online Demos
-All modules can directly be executed in your web browser via GitHub Pages.    
-https://kkfyuen.github.io/cpcHCADDemos/ 
+### Live Web Demos
+Access and execute all demonstration modules directly in your web browser through GitHub Pages:  
+https://kkfyuen.github.io/cpcHCADDemos/
 
 ### Local Execution
 1. Clone the repository and open any `.html` demonstration file in a modern web browser to inspect interactive tables, visualizations, and computational steps.
